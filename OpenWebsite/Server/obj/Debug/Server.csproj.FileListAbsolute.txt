@@ -1,0 +1,32 @@
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.History.resources
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Server.resources
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe.config
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.pdb
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.exe
+D:\Học\NT106.K11.ANTN\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.pdb
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe.config
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.pdb
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.History.resources
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Server.resources
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.exe
+C:\Users\Thai_Guerreiro\Desktop\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.pdb
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe.config
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.exe
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Debug\Server.pdb
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.Server.resources
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.exe
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Debug\Server.pdb

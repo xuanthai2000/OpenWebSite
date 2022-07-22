@@ -1,0 +1,10 @@
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Release\Server.exe.config
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Release\Server.exe
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\bin\Release\Server.pdb
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.Server.resources
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.csproj.GenerateResource.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.exe
+C:\Users\THAIDUI\Desktop\Web\Đồ án giữa kì\Đồ án giữa kì\OpenWebsite\Server\obj\Release\Server.pdb

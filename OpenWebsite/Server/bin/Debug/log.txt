@@ -1,0 +1,1478 @@
+Connect  Connected 127.0.0.1:62738 5/26/2020 1:20:32 AM
+Connect +Connected+127.0.0.1:62738+5/26/2020 1:20:32 AM
+fb.com Successful 127.0.0.1:62738 5/26/2020 1:20:40 AM
+fb.com+Successful+127.0.0.1:62738+5/26/2020 1:20:40 AM
+Connect  Connected 127.0.0.1:58298 5/26/2020 5:43:54 PM
+Connect +Connected+127.0.0.1:58298+5/26/2020 5:43:54 PM
+www.google.com Successful 127.0.0.1:58298 5/26/2020 5:44:00 PM
+www.google.com+Successful+127.0.0.1:58298+5/26/2020 5:44:00 PM
+https://expressmagazine.net/development/2608/khac-phuc-su-co-cac-ket-noi-trong-mang-phan-1 Successful 127.0.0.1:58298 5/26/2020 5:44:21 PM
+https://expressmagazine.net/development/2608/khac-phuc-su-co-cac-ket-noi-trong-mang-phan-1+Successful+127.0.0.1:58298+5/26/2020 5:44:21 PM
+https://www.facebook.com/ Successful 127.0.0.1:58298 5/26/2020 5:52:12 PM
+https://www.facebook.com/+Successful+127.0.0.1:58298+5/26/2020 5:52:12 PM
+thai Unsuccessful 127.0.0.1:58298 5/26/2020 5:52:44 PM
+thai+Unsuccessful+127.0.0.1:58298+5/26/2020 5:52:44 PM
+Connect  Connected 127.0.0.1:58488 5/26/2020 5:59:38 PM
+Connect +Connected+127.0.0.1:58488+5/26/2020 5:59:38 PM
+thai.com Unsuccessful 127.0.0.1:58488 5/26/2020 5:59:48 PM
+thai.com+Unsuccessful+127.0.0.1:58488+5/26/2020 5:59:48 PM
+facebook.com Successful 127.0.0.1:58488 5/26/2020 6:00:23 PM
+facebook.com+Successful+127.0.0.1:58488+5/26/2020 6:00:23 PM
+Connect  Connected 127.0.0.1:49686 5/27/2020 12:04:05 AM
+Connect +Connected+127.0.0.1:49686+5/27/2020 12:04:05 AM
+google.com Unsuccessful 127.0.0.1:49686 5/27/2020 12:04:26 AM
+google.com+Unsuccessful+127.0.0.1:49686+5/27/2020 12:04:26 AM
+facebook.com Unsuccessful 127.0.0.1:49686 5/27/2020 12:04:41 AM
+facebook.com+Unsuccessful+127.0.0.1:49686+5/27/2020 12:04:41 AM
+ád Unsuccessful 127.0.0.1:49686 5/27/2020 12:04:47 AM
+ád+Unsuccessful+127.0.0.1:49686+5/27/2020 12:04:47 AM
+Connect  Connected 127.0.0.1:49687 5/27/2020 12:06:03 AM
+Connect +Connected+127.0.0.1:49687+5/27/2020 12:06:03 AM
+google.com Unsuccessful 127.0.0.1:49687 5/27/2020 12:06:17 AM
+google.com+Unsuccessful+127.0.0.1:49687+5/27/2020 12:06:17 AM
+Connect  Connected 127.0.0.1:49688 5/27/2020 12:18:45 AM
+Connect +Connected+127.0.0.1:49688+5/27/2020 12:18:45 AM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:49688 5/27/2020 12:19:31 AM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:49688+5/27/2020 12:19:31 AM
+Connect  Connected 127.0.0.1:49689 5/27/2020 12:25:07 AM
+Connect +Connected+127.0.0.1:49689+5/27/2020 12:25:07 AM
+Connect  Connected 127.0.0.1:49690 5/27/2020 12:27:57 AM
+Connect +Connected+127.0.0.1:49690+5/27/2020 12:27:57 AM
+Connect  Connected 127.0.0.1:49691 5/27/2020 12:38:51 AM
+Connect +Connected+127.0.0.1:49691+5/27/2020 12:38:51 AM
+th Unsuccessful 127.0.0.1:49691 5/27/2020 12:39:02 AM
+th+Unsuccessful+127.0.0.1:49691+5/27/2020 12:39:02 AM
+thưerwer Unsuccessful 127.0.0.1:49691 5/27/2020 12:39:08 AM
+thưerwer+Unsuccessful+127.0.0.1:49691+5/27/2020 12:39:08 AM
+google.com Unsuccessful 127.0.0.1:49691 5/27/2020 12:39:19 AM
+google.com+Unsuccessful+127.0.0.1:49691+5/27/2020 12:39:19 AM
+Connect  Connected 127.0.0.1:49673 5/27/2020 2:03:40 AM
+Connect +Connected+127.0.0.1:49673+5/27/2020 2:03:40 AM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:49673 5/27/2020 2:04:00 AM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:49673+5/27/2020 2:04:00 AM
+Connect  Connected 127.0.0.1:49674 5/27/2020 2:05:15 AM
+Connect +Connected+127.0.0.1:49674+5/27/2020 2:05:15 AM
+dsasd Unsuccessful 127.0.0.1:49674 5/27/2020 2:05:24 AM
+dsasd+Unsuccessful+127.0.0.1:49674+5/27/2020 2:05:24 AM
+Connect  Connected 127.0.0.1:49675 5/27/2020 2:19:44 AM
+Connect +Connected+127.0.0.1:49675+5/27/2020 2:19:44 AM
+Connect  Connected 127.0.0.1:49676 5/27/2020 2:21:08 AM
+Connect +Connected+127.0.0.1:49676+5/27/2020 2:21:08 AM
+hkj Unsuccessful 127.0.0.1:49676 5/27/2020 2:21:17 AM
+hkj+Unsuccessful+127.0.0.1:49676+5/27/2020 2:21:17 AM
+Connect  Connected 127.0.0.1:49677 5/27/2020 2:26:14 AM
+Connect +Connected+127.0.0.1:49677+5/27/2020 2:26:14 AM
+jkh Unsuccessful 127.0.0.1:49677 5/27/2020 2:26:20 AM
+jkh+Unsuccessful+127.0.0.1:49677+5/27/2020 2:26:20 AM
+Connect  Connected 127.0.0.1:49679 5/27/2020 2:32:46 AM
+Connect +Connected+127.0.0.1:49679+5/27/2020 2:32:46 AM
+dsa Unsuccessful 127.0.0.1:49679 5/27/2020 2:32:52 AM
+dsa+Unsuccessful+127.0.0.1:49679+5/27/2020 2:32:52 AM
+ưeqweqwe Unsuccessful 127.0.0.1:49679 5/27/2020 2:32:57 AM
+ưeqweqwe+Unsuccessful+127.0.0.1:49679+5/27/2020 2:32:57 AM
+Connect  Connected 127.0.0.1:64130 5/27/2020 11:46:55 AM
+Connect +Connected+127.0.0.1:64130+5/27/2020 11:46:55 AM
+daa.uit.edu.vn Successful 127.0.0.1:64130 5/27/2020 11:47:06 AM
+daa.uit.edu.vn+Successful+127.0.0.1:64130+5/27/2020 11:47:06 AM
+daa Successful 127.0.0.1:64130 5/27/2020 11:47:18 AM
+daa+Successful+127.0.0.1:64130+5/27/2020 11:47:18 AM
+Connect  Connected 127.0.0.1:59732 5/27/2020 1:10:33 PM
+Connect +Connected+127.0.0.1:59732+5/27/2020 1:10:33 PM
+fb.com Unsuccessful 127.0.0.1:59732 5/27/2020 1:10:53 PM
+fb.com+Unsuccessful+127.0.0.1:59732+5/27/2020 1:10:53 PM
+Connect  Connected 127.0.0.1:59784 5/27/2020 1:17:24 PM
+Connect +Connected+127.0.0.1:59784+5/27/2020 1:17:24 PM
+google.com Unsuccessful 127.0.0.1:59784 5/27/2020 1:17:44 PM
+google.com+Unsuccessful+127.0.0.1:59784+5/27/2020 1:17:44 PM
+Connect  Connected 127.0.0.1:59854 5/27/2020 1:26:51 PM
+Connect +Connected+127.0.0.1:59854+5/27/2020 1:26:51 PM
+fb.com Successful 127.0.0.1:59854 5/27/2020 1:27:05 PM
+fb.com+Successful+127.0.0.1:59854+5/27/2020 1:27:05 PM
+Connect  Connected 127.0.0.1:55847 5/27/2020 1:37:17 PM
+Connect +Connected+127.0.0.1:55847+5/27/2020 1:37:17 PM
+google.com Successful 127.0.0.1:55847 5/27/2020 1:37:26 PM
+google.com+Successful+127.0.0.1:55847+5/27/2020 1:37:26 PM
+dangcongsan.vn Successful 127.0.0.1:55847 5/27/2020 1:37:41 PM
+dangcongsan.vn+Successful+127.0.0.1:55847+5/27/2020 1:37:41 PM
+Connect  Connected 127.0.0.1:55900 5/27/2020 1:38:35 PM
+Connect +Connected+127.0.0.1:55900+5/27/2020 1:38:35 PM
+thai Unsuccessful 127.0.0.1:55900 5/27/2020 1:38:45 PM
+thai+Unsuccessful+127.0.0.1:55900+5/27/2020 1:38:45 PM
+Connect  Connected 127.0.0.1:55910 5/27/2020 1:40:58 PM
+Connect +Connected+127.0.0.1:55910+5/27/2020 1:40:58 PM
+sad Unsuccessful 127.0.0.1:55910 5/27/2020 1:41:05 PM
+sad+Unsuccessful+127.0.0.1:55910+5/27/2020 1:41:05 PM
+google.com Unsuccessful 127.0.0.1:55910 5/27/2020 1:41:17 PM
+google.com+Unsuccessful+127.0.0.1:55910+5/27/2020 1:41:17 PM
+goole.com Successful 127.0.0.1:55910 5/27/2020 1:42:01 PM
+goole.com+Successful+127.0.0.1:55910+5/27/2020 1:42:01 PM
+Connect  Connected 127.0.0.1:56251 5/27/2020 2:32:44 PM
+Connect +Connected+127.0.0.1:56251+5/27/2020 2:32:44 PM
+212 Unsuccessful 127.0.0.1:56251 5/27/2020 2:32:54 PM
+212+Unsuccessful+127.0.0.1:56251+5/27/2020 2:32:54 PM
+https://www.google.com/ Successful 127.0.0.1:56251 5/27/2020 2:33:14 PM
+https://www.google.com/+Successful+127.0.0.1:56251+5/27/2020 2:33:14 PM
+Connect  Connected 127.0.0.1:56889 5/27/2020 9:46:49 PM
+Connect +Connected+127.0.0.1:56889+5/27/2020 9:46:49 PM
+fb.com Successful 127.0.0.1:56889 5/27/2020 9:47:10 PM
+fb.com+Successful+127.0.0.1:56889+5/27/2020 9:47:10 PM
+Connect  Connected 127.0.0.1:56913 5/27/2020 9:52:49 PM
+Connect +Connected+127.0.0.1:56913+5/27/2020 9:52:49 PM
+Connect  Connected 127.0.0.1:56989 5/27/2020 10:18:30 PM
+Connect +Connected+127.0.0.1:56989+5/27/2020 10:18:30 PM
+Connect  Connected 127.0.0.1:56990 5/27/2020 10:20:49 PM
+Connect +Connected+127.0.0.1:56990+5/27/2020 10:20:49 PM
+Connect  Connected 127.0.0.1:58244 5/27/2020 11:37:14 PM
+Connect +Connected+127.0.0.1:58244+5/27/2020 11:37:14 PM
+dangcongsan.vn Successful 127.0.0.1:58244 5/27/2020 11:37:45 PM
+dangcongsan.vn+Successful+127.0.0.1:58244+5/27/2020 11:37:45 PM
+Connect  Connected 127.0.0.1:58303 5/27/2020 11:41:28 PM
+Connect +Connected+127.0.0.1:58303+5/27/2020 11:41:28 PM
+http://google.com/ Successful 127.0.0.1:58303 5/27/2020 11:41:47 PM
+http://google.com/+Successful+127.0.0.1:58303+5/27/2020 11:41:47 PM
+dá Unsuccessful 127.0.0.1:58303 5/27/2020 11:42:18 PM
+dá+Unsuccessful+127.0.0.1:58303+5/27/2020 11:42:18 PM
+Connect  Connected 127.0.0.1:58516 5/27/2020 11:59:51 PM
+Connect +Connected+127.0.0.1:58516+5/27/2020 11:59:51 PM
+Connect  Connected 127.0.0.1:58523 5/28/2020 12:02:28 AM
+Connect +Connected+127.0.0.1:58523+5/28/2020 12:02:28 AM
+daa.uit.edu.vn Successful 127.0.0.1:58523 5/28/2020 12:02:51 AM
+daa.uit.edu.vn+Successful+127.0.0.1:58523+5/28/2020 12:02:51 AM
+Connect  Connected 127.0.0.1:58535 5/28/2020 12:06:05 AM
+Connect +Connected+127.0.0.1:58535+5/28/2020 12:06:05 AM
+daa.uit.edu.vn Successful 127.0.0.1:58535 5/28/2020 12:06:19 AM
+daa.uit.edu.vn+Successful+127.0.0.1:58535+5/28/2020 12:06:19 AM
+Connect  Connected 127.0.0.1:58555 5/28/2020 12:12:27 AM
+Connect +Connected+127.0.0.1:58555+5/28/2020 12:12:27 AM
+sada Unsuccessful 127.0.0.1:58555 5/28/2020 12:12:37 AM
+sada+Unsuccessful+127.0.0.1:58555+5/28/2020 12:12:37 AM
+a Unsuccessful 127.0.0.1:58555 5/28/2020 12:13:05 AM
+a+Unsuccessful+127.0.0.1:58555+5/28/2020 12:13:05 AM
+Connect  Connected 127.0.0.1:60163 5/28/2020 12:49:29 AM
+Connect +Connected+127.0.0.1:60163+5/28/2020 12:49:29 AM
+Connect  Connected 127.0.0.1:60165 5/28/2020 12:49:31 AM
+Connect +Connected+127.0.0.1:60165+5/28/2020 12:49:31 AM
+daa.uit.edu.vn Successful 127.0.0.1:60163 5/28/2020 12:49:55 AM
+daa.uit.edu.vn+Successful+127.0.0.1:60163+5/28/2020 12:49:55 AM
+fb.com Successful 127.0.0.1:60165 5/28/2020 12:50:15 AM
+fb.com+Successful+127.0.0.1:60165+5/28/2020 12:50:15 AM
+Connect  Connected 127.0.0.1:60202 5/28/2020 8:57:45 AM
+Connect +Connected+127.0.0.1:60202+5/28/2020 8:57:45 AM
+Connect  Connected 127.0.0.1:60228 5/28/2020 8:59:51 AM
+Connect +Connected+127.0.0.1:60228+5/28/2020 8:59:51 AM
+fbv.com Unsuccessful 127.0.0.1:60228 5/28/2020 9:00:02 AM
+fbv.com+Unsuccessful+127.0.0.1:60228+5/28/2020 9:00:02 AM
+Connect  Connected 127.0.0.1:60287 5/28/2020 9:00:52 AM
+Connect +Connected+127.0.0.1:60287+5/28/2020 9:00:52 AM
+tiin.vn Successful 127.0.0.1:60287 5/28/2020 9:00:59 AM
+tiin.vn+Successful+127.0.0.1:60287+5/28/2020 9:00:59 AM
+Connect  Connected 127.0.0.1:60371 5/28/2020 9:02:43 AM
+Connect +Connected+127.0.0.1:60371+5/28/2020 9:02:43 AM
+Connect  Connected 127.0.0.1:60565 5/28/2020 9:19:43 AM
+Connect +Connected+127.0.0.1:60565+5/28/2020 9:19:43 AM
+anhhungxadieu274 Unsuccessful 127.0.0.1:60565 5/28/2020 9:20:12 AM
+anhhungxadieu274+Unsuccessful+127.0.0.1:60565+5/28/2020 9:20:12 AM
+Connect  Connected 127.0.0.1:60665 5/28/2020 9:34:24 AM
+Connect +Connected+127.0.0.1:60665+5/28/2020 9:34:24 AM
+daa.uit.edu.vn Successful 127.0.0.1:60665 5/28/2020 9:34:36 AM
+daa.uit.edu.vn+Successful+127.0.0.1:60665+5/28/2020 9:34:36 AM
+tiin.vn Successful 127.0.0.1:60665 5/28/2020 9:34:47 AM
+tiin.vn+Successful+127.0.0.1:60665+5/28/2020 9:34:47 AM
+thakada Unsuccessful 127.0.0.1:60665 5/28/2020 9:35:06 AM
+thakada+Unsuccessful+127.0.0.1:60665+5/28/2020 9:35:06 AM
+Connect  Connected 127.0.0.1:60807 5/28/2020 9:50:55 AM
+Connect +Connected+127.0.0.1:60807+5/28/2020 9:50:55 AM
+Connect  Connected 127.0.0.1:60809 5/28/2020 9:51:49 AM
+Connect +Connected+127.0.0.1:60809+5/28/2020 9:51:49 AM
+Connect  Connected 127.0.0.1:54716 5/29/2020 12:18:22 AM
+Connect +Connected+127.0.0.1:54716+5/29/2020 12:18:22 AM
+Connect  Connected 127.0.0.1:54718 5/29/2020 12:19:15 AM
+Connect +Connected+127.0.0.1:54718+5/29/2020 12:19:15 AM
+dsda Unsuccessful 127.0.0.1:54718 5/29/2020 12:19:24 AM
+dsda+Unsuccessful+127.0.0.1:54718+5/29/2020 12:19:24 AM
+adad Unsuccessful 127.0.0.1:54718 5/29/2020 12:19:26 AM
+adad+Unsuccessful+127.0.0.1:54718+5/29/2020 12:19:26 AM
+Connect  Connected 127.0.0.1:57737 5/29/2020 9:58:36 AM
+Connect +Connected+127.0.0.1:57737+5/29/2020 9:58:36 AM
+dasa Unsuccessful 127.0.0.1:57737 5/29/2020 9:58:47 AM
+dasa+Unsuccessful+127.0.0.1:57737+5/29/2020 9:58:47 AM
+fsd Unsuccessful 127.0.0.1:57737 5/29/2020 9:59:11 AM
+fsd+Unsuccessful+127.0.0.1:57737+5/29/2020 9:59:11 AM
+Connect  Connected 127.0.0.1:59732 5/29/2020 10:53:31 AM
+Connect +Connected+127.0.0.1:59732+5/29/2020 10:53:31 AM
+ád Unsuccessful 127.0.0.1:59732 5/29/2020 10:53:41 AM
+ád+Unsuccessful+127.0.0.1:59732+5/29/2020 10:53:41 AM
+ádasd Unsuccessful 127.0.0.1:59732 5/29/2020 10:53:48 AM
+ádasd+Unsuccessful+127.0.0.1:59732+5/29/2020 10:53:48 AM
+Connect  Connected 127.0.0.1:59738 5/29/2020 10:56:16 AM
+Connect +Connected+127.0.0.1:59738+5/29/2020 10:56:16 AM
+d Unsuccessful 127.0.0.1:59738 5/29/2020 10:56:28 AM
+d+Unsuccessful+127.0.0.1:59738+5/29/2020 10:56:28 AM
+Connect  Connected 127.0.0.1:59757 5/29/2020 11:00:56 AM
+Connect +Connected+127.0.0.1:59757+5/29/2020 11:00:56 AM
+Connect  Connected 127.0.0.1:55605 5/30/2020 10:08:38 AM
+Connect +Connected+127.0.0.1:55605+5/30/2020 10:08:38 AM
+http://dâ/ Unsuccessful 127.0.0.1:55605 5/30/2020 10:09:06 AM
+http://dâ/+Unsuccessful+127.0.0.1:55605+5/30/2020 10:09:06 AM
+Connect  Connected 127.0.0.1:55646 5/30/2020 10:11:37 AM
+Connect +Connected+127.0.0.1:55646+5/30/2020 10:11:37 AM
+Connect  Connected 127.0.0.1:55648 5/30/2020 10:13:46 AM
+Connect +Connected+127.0.0.1:55648+5/30/2020 10:13:46 AM
+http://sd/ Unsuccessful 127.0.0.1:55648 5/30/2020 10:13:54 AM
+http://sd/+Unsuccessful+127.0.0.1:55648+5/30/2020 10:13:54 AM
+http://â/ Unsuccessful 127.0.0.1:55648 5/30/2020 10:14:09 AM
+http://â/+Unsuccessful+127.0.0.1:55648+5/30/2020 10:14:09 AM
+Connect  Connected 127.0.0.1:55851 5/30/2020 10:48:35 AM
+Connect +Connected+127.0.0.1:55851+5/30/2020 10:48:35 AM
+http://sdasd/ Unsuccessful 127.0.0.1:55851 5/30/2020 10:48:44 AM
+http://sdasd/+Unsuccessful+127.0.0.1:55851+5/30/2020 10:48:44 AM
+http://0.0.0.123/ Unsuccessful 127.0.0.1:55851 5/30/2020 10:49:23 AM
+http://0.0.0.123/+Unsuccessful+127.0.0.1:55851+5/30/2020 10:49:23 AM
+http://d/ Unsuccessful 127.0.0.1:55851 5/30/2020 10:49:56 AM
+http://d/+Unsuccessful+127.0.0.1:55851+5/30/2020 10:49:56 AM
+http://@qưeqwe/ Unsuccessful 127.0.0.1:55851 5/30/2020 10:53:10 AM
+http://@qưeqwe/+Unsuccessful+127.0.0.1:55851+5/30/2020 10:53:10 AM
+Connect  Connected 127.0.0.1:55901 5/30/2020 10:59:28 AM
+Connect +Connected+127.0.0.1:55901+5/30/2020 10:59:28 AM
+http://dá/ Unsuccessful 127.0.0.1:55901 5/30/2020 10:59:37 AM
+http://dá/+Unsuccessful+127.0.0.1:55901+5/30/2020 10:59:37 AM
+Connect  Connected 127.0.0.1:55908 5/30/2020 11:01:36 AM
+Connect +Connected+127.0.0.1:55908+5/30/2020 11:01:36 AM
+https://www.facebook.com/ Successful 127.0.0.1:55908 5/30/2020 11:01:41 AM
+https://www.facebook.com/+Successful+127.0.0.1:55908+5/30/2020 11:01:41 AM
+http://dsaa/ Unsuccessful 127.0.0.1:55908 5/30/2020 11:02:07 AM
+http://dsaa/+Unsuccessful+127.0.0.1:55908+5/30/2020 11:02:07 AM
+Connect  Connected 127.0.0.1:55920 5/30/2020 11:03:12 AM
+Connect +Connected+127.0.0.1:55920+5/30/2020 11:03:12 AM
+http://dsadadasdsa/ Unsuccessful 127.0.0.1:55920 5/30/2020 11:03:31 AM
+http://dsadadasdsa/+Unsuccessful+127.0.0.1:55920+5/30/2020 11:03:31 AM
+Connect  Connected 127.0.0.1:55925 5/30/2020 11:04:24 AM
+Connect +Connected+127.0.0.1:55925+5/30/2020 11:04:24 AM
+Connect  Connected 127.0.0.1:55959 5/30/2020 11:06:14 AM
+Connect +Connected+127.0.0.1:55959+5/30/2020 11:06:14 AM
+http://dá/ Unsuccessful 127.0.0.1:55959 5/30/2020 11:06:30 AM
+http://dá/+Unsuccessful+127.0.0.1:55959+5/30/2020 11:06:30 AM
+http://daa.uit.edu.vn/ Successful 127.0.0.1:55959 5/30/2020 11:06:37 AM
+http://daa.uit.edu.vn/+Successful+127.0.0.1:55959+5/30/2020 11:06:37 AM
+http://dangcongsan.vn/ Successful 127.0.0.1:55959 5/30/2020 11:06:52 AM
+http://dangcongsan.vn/+Successful+127.0.0.1:55959+5/30/2020 11:06:52 AM
+https://www.youtube.com/watch?v=pBwyugiG6m4 Successful 127.0.0.1:55959 5/30/2020 11:07:05 AM
+https://www.youtube.com/watch?v=pBwyugiG6m4+Successful+127.0.0.1:55959+5/30/2020 11:07:05 AM
+http://sdasdas/ Unsuccessful 127.0.0.1:55959 5/30/2020 11:07:20 AM
+http://sdasdas/+Unsuccessful+127.0.0.1:55959+5/30/2020 11:07:20 AM
+Connect  Connected 127.0.0.1:56066 5/30/2020 11:10:45 AM
+Connect +Connected+127.0.0.1:56066+5/30/2020 11:10:45 AM
+dsa Unsuccessful 127.0.0.1:56066 5/30/2020 11:11:00 AM
+dsa+Unsuccessful+127.0.0.1:56066+5/30/2020 11:11:00 AM
+daa.uit.edu.vn Successful 127.0.0.1:56066 5/30/2020 11:11:08 AM
+daa.uit.edu.vn+Successful+127.0.0.1:56066+5/30/2020 11:11:08 AM
+tiin.vn Successful 127.0.0.1:56066 5/30/2020 11:11:19 AM
+tiin.vn+Successful+127.0.0.1:56066+5/30/2020 11:11:19 AM
+thai.vn Successful 127.0.0.1:56066 5/30/2020 11:11:29 AM
+thai.vn+Successful+127.0.0.1:56066+5/30/2020 11:11:29 AM
+vn.thai Unsuccessful 127.0.0.1:56066 5/30/2020 11:12:01 AM
+vn.thai+Unsuccessful+127.0.0.1:56066+5/30/2020 11:12:01 AM
+Connect  Connected 127.0.0.1:56149 5/30/2020 11:12:14 AM
+Connect +Connected+127.0.0.1:56149+5/30/2020 11:12:14 AM
+dsa Unsuccessful 127.0.0.1:56149 5/30/2020 11:12:51 AM
+dsa+Unsuccessful+127.0.0.1:56149+5/30/2020 11:12:51 AM
+Connect  Connected 127.0.0.1:56191 5/30/2020 11:17:43 AM
+Connect +Connected+127.0.0.1:56191+5/30/2020 11:17:43 AM
+sd Unsuccessful 127.0.0.1:56191 5/30/2020 11:17:57 AM
+sd+Unsuccessful+127.0.0.1:56191+5/30/2020 11:17:57 AM
+daa.uit.edu.vn Successful 127.0.0.1:56191 5/30/2020 11:18:04 AM
+daa.uit.edu.vn+Successful+127.0.0.1:56191+5/30/2020 11:18:04 AM
+sadasq Unsuccessful 127.0.0.1:56191 5/30/2020 11:18:21 AM
+sadasq+Unsuccessful+127.0.0.1:56191+5/30/2020 11:18:21 AM
+Connect  Connected 127.0.0.1:58723 5/30/2020 3:19:01 PM
+Connect +Connected+127.0.0.1:58723+5/30/2020 3:19:01 PM
+https://www.facebook.com/ulzzanggirl2/photos/pcb.3087913524603606/3087903081271317/?type=3&theater Successful 127.0.0.1:58723 5/30/2020 3:19:04 PM
+https://www.facebook.com/ulzzanggirl2/photos/pcb.3087913524603606/3087903081271317/?type=3&theater+Successful+127.0.0.1:58723+5/30/2020 3:19:04 PM
+sdaasd Unsuccessful 127.0.0.1:58723 5/30/2020 3:19:55 PM
+sdaasd+Unsuccessful+127.0.0.1:58723+5/30/2020 3:19:55 PM
+thkashkdaasd Unsuccessful 127.0.0.1:58723 5/30/2020 3:20:16 PM
+thkashkdaasd+Unsuccessful+127.0.0.1:58723+5/30/2020 3:20:16 PM
+Connect  Connected 127.0.0.1:60942 5/30/2020 9:50:30 PM
+Connect +Connected+127.0.0.1:60942+5/30/2020 9:50:30 PM
+dá Unsuccessful 127.0.0.1:60942 5/30/2020 9:50:44 PM
+dá+Unsuccessful+127.0.0.1:60942+5/30/2020 9:50:44 PM
+daa.uit.edu.vn Successful 127.0.0.1:60942 5/30/2020 9:50:53 PM
+daa.uit.edu.vn+Successful+127.0.0.1:60942+5/30/2020 9:50:53 PM
+Connect  Connected 127.0.0.1:61116 5/30/2020 10:02:29 PM
+Connect +Connected+127.0.0.1:61116+5/30/2020 10:02:29 PM
+dsa Unsuccessful 127.0.0.1:61116 5/30/2020 10:02:46 PM
+dsa+Unsuccessful+127.0.0.1:61116+5/30/2020 10:02:46 PM
+sđ Unsuccessful 127.0.0.1:61116 5/30/2020 10:02:52 PM
+sđ+Unsuccessful+127.0.0.1:61116+5/30/2020 10:02:52 PM
+Connect  Connected 127.0.0.1:61186 5/30/2020 10:08:58 PM
+Connect +Connected+127.0.0.1:61186+5/30/2020 10:08:58 PM
+ad Unsuccessful 127.0.0.1:61186 5/30/2020 10:09:10 PM
+ad+Unsuccessful+127.0.0.1:61186+5/30/2020 10:09:10 PM
+Connect  Connected 127.0.0.1:61199 5/30/2020 10:10:47 PM
+Connect +Connected+127.0.0.1:61199+5/30/2020 10:10:47 PM
+d Unsuccessful 127.0.0.1:61199 5/30/2020 10:11:01 PM
+d+Unsuccessful+127.0.0.1:61199+5/30/2020 10:11:01 PM
+daa.uit.edu.vn Successful 127.0.0.1:61199 5/30/2020 10:11:11 PM
+daa.uit.edu.vn+Successful+127.0.0.1:61199+5/30/2020 10:11:11 PM
+dá Unsuccessful 127.0.0.1:61199 5/30/2020 10:11:33 PM
+dá+Unsuccessful+127.0.0.1:61199+5/30/2020 10:11:33 PM
+fb.com Successful 127.0.0.1:61199 5/30/2020 10:11:45 PM
+fb.com+Successful+127.0.0.1:61199+5/30/2020 10:11:45 PM
+Connect  Connected 127.0.0.1:61450 5/30/2020 10:27:37 PM
+Connect +Connected+127.0.0.1:61450+5/30/2020 10:27:37 PM
+Connect  Connected 127.0.0.1:61475 5/30/2020 10:28:12 PM
+Connect +Connected+127.0.0.1:61475+5/30/2020 10:28:12 PM
+Connect  Connected 127.0.0.1:61503 5/30/2020 10:32:44 PM
+Connect +Connected+127.0.0.1:61503+5/30/2020 10:32:44 PM
+da Unsuccessful 127.0.0.1:61503 5/30/2020 10:32:55 PM
+da+Unsuccessful+127.0.0.1:61503+5/30/2020 10:32:55 PM
+dâsd Unsuccessful 127.0.0.1:61503 5/30/2020 10:33:02 PM
+dâsd+Unsuccessful+127.0.0.1:61503+5/30/2020 10:33:02 PM
+sadasd Unsuccessful 127.0.0.1:61503 5/30/2020 10:33:13 PM
+sadasd+Unsuccessful+127.0.0.1:61503+5/30/2020 10:33:13 PM
+fb.com Successful 127.0.0.1:61503 5/30/2020 10:33:19 PM
+fb.com+Successful+127.0.0.1:61503+5/30/2020 10:33:19 PM
+Connect  Connected 127.0.0.1:61542 5/30/2020 10:34:03 PM
+Connect +Connected+127.0.0.1:61542+5/30/2020 10:34:03 PM
+Connect  Connected 127.0.0.1:61549 5/30/2020 10:34:52 PM
+Connect +Connected+127.0.0.1:61549+5/30/2020 10:34:52 PM
+fb.com Successful 127.0.0.1:61549 5/30/2020 10:34:59 PM
+fb.com+Successful+127.0.0.1:61549+5/30/2020 10:34:59 PM
+ads Unsuccessful 127.0.0.1:61549 5/30/2020 10:35:18 PM
+ads+Unsuccessful+127.0.0.1:61549+5/30/2020 10:35:18 PM
+sadsa Unsuccessful 127.0.0.1:61549 5/30/2020 10:35:23 PM
+sadsa+Unsuccessful+127.0.0.1:61549+5/30/2020 10:35:23 PM
+tiin.vn Successful 127.0.0.1:61549 5/30/2020 10:35:31 PM
+tiin.vn+Successful+127.0.0.1:61549+5/30/2020 10:35:31 PM
+Connect  Connected 127.0.0.1:61743 5/30/2020 10:44:22 PM
+Connect +Connected+127.0.0.1:61743+5/30/2020 10:44:22 PM
+Connect  Connected 127.0.0.1:61749 5/30/2020 10:45:25 PM
+Connect +Connected+127.0.0.1:61749+5/30/2020 10:45:25 PM
+Connect  Connected 127.0.0.1:61759 5/30/2020 10:46:15 PM
+Connect +Connected+127.0.0.1:61759+5/30/2020 10:46:15 PM
+Connect  Connected 127.0.0.1:61768 5/30/2020 10:48:08 PM
+Connect +Connected+127.0.0.1:61768+5/30/2020 10:48:08 PM
+s Unsuccessful 127.0.0.1:61768 5/30/2020 10:48:19 PM
+s+Unsuccessful+127.0.0.1:61768+5/30/2020 10:48:19 PM
+Connect  Connected 127.0.0.1:61780 5/30/2020 10:49:52 PM
+Connect +Connected+127.0.0.1:61780+5/30/2020 10:49:52 PM
+Connect  Connected 127.0.0.1:62377 5/31/2020 12:14:11 AM
+Connect +Connected+127.0.0.1:62377+5/31/2020 12:14:11 AM
+dá Unsuccessful 127.0.0.1:62377 5/31/2020 12:14:22 AM
+dá+Unsuccessful+127.0.0.1:62377+5/31/2020 12:14:22 AM
+Connect  Connected 127.0.0.1:62454 5/31/2020 12:24:05 AM
+Connect +Connected+127.0.0.1:62454+5/31/2020 12:24:05 AM
+ads Unsuccessful 127.0.0.1:62454 5/31/2020 12:24:13 AM
+ads+Unsuccessful+127.0.0.1:62454+5/31/2020 12:24:13 AM
+fb.com Successful 127.0.0.1:62454 5/31/2020 12:24:19 AM
+fb.com+Successful+127.0.0.1:62454+5/31/2020 12:24:19 AM
+sd Unsuccessful 127.0.0.1:62454 5/31/2020 12:24:50 AM
+sd+Unsuccessful+127.0.0.1:62454+5/31/2020 12:24:50 AM
+google.com Successful 127.0.0.1:62454 5/31/2020 12:24:57 AM
+google.com+Successful+127.0.0.1:62454+5/31/2020 12:24:57 AM
+google.com Successful 127.0.0.1:62454 5/31/2020 12:25:15 AM
+google.com+Successful+127.0.0.1:62454+5/31/2020 12:25:15 AM
+fb.com Successful 127.0.0.1:62454 5/31/2020 12:25:28 AM
+fb.com+Successful+127.0.0.1:62454+5/31/2020 12:25:28 AM
+Connect  Connected 127.0.0.1:62505 5/31/2020 12:26:15 AM
+Connect +Connected+127.0.0.1:62505+5/31/2020 12:26:15 AM
+ds Unsuccessful 127.0.0.1:62505 5/31/2020 12:26:27 AM
+ds+Unsuccessful+127.0.0.1:62505+5/31/2020 12:26:27 AM
+uit.edu.vn Successful 127.0.0.1:62505 5/31/2020 12:26:34 AM
+uit.edu.vn+Successful+127.0.0.1:62505+5/31/2020 12:26:34 AM
+tiin.vn Successful 127.0.0.1:62505 5/31/2020 12:26:52 AM
+tiin.vn+Successful+127.0.0.1:62505+5/31/2020 12:26:52 AM
+Connect  Connected 127.0.0.1:62648 5/31/2020 12:29:10 AM
+Connect +Connected+127.0.0.1:62648+5/31/2020 12:29:10 AM
+đá Unsuccessful 127.0.0.1:62648 5/31/2020 12:29:22 AM
+đá+Unsuccessful+127.0.0.1:62648+5/31/2020 12:29:22 AM
+fb.com Successful 127.0.0.1:62648 5/31/2020 12:29:28 AM
+fb.com+Successful+127.0.0.1:62648+5/31/2020 12:29:28 AM
+sd Unsuccessful 127.0.0.1:62648 5/31/2020 12:29:45 AM
+sd+Unsuccessful+127.0.0.1:62648+5/31/2020 12:29:45 AM
+fb.com Successful 127.0.0.1:62648 5/31/2020 12:29:56 AM
+fb.com+Successful+127.0.0.1:62648+5/31/2020 12:29:56 AM
+Connect  Connected 127.0.0.1:62797 5/31/2020 12:33:57 AM
+Connect +Connected+127.0.0.1:62797+5/31/2020 12:33:57 AM
+fb.com Successful 127.0.0.1:62797 5/31/2020 12:34:06 AM
+fb.com+Successful+127.0.0.1:62797+5/31/2020 12:34:06 AM
+Connect  Connected 127.0.0.1:62833 5/31/2020 12:38:53 AM
+Connect +Connected+127.0.0.1:62833+5/31/2020 12:38:53 AM
+fb.com Successful 127.0.0.1:62833 5/31/2020 12:38:59 AM
+fb.com+Successful+127.0.0.1:62833+5/31/2020 12:38:59 AM
+dsa Unsuccessful 127.0.0.1:62833 5/31/2020 12:39:21 AM
+dsa+Unsuccessful+127.0.0.1:62833+5/31/2020 12:39:21 AM
+Connect  Connected 127.0.0.1:62902 5/31/2020 12:44:49 AM
+Connect +Connected+127.0.0.1:62902+5/31/2020 12:44:49 AM
+sd Unsuccessful 127.0.0.1:62902 5/31/2020 12:44:59 AM
+sd+Unsuccessful+127.0.0.1:62902+5/31/2020 12:44:59 AM
+fb.com Successful 127.0.0.1:62902 5/31/2020 12:45:05 AM
+fb.com+Successful+127.0.0.1:62902+5/31/2020 12:45:05 AM
+Connect  Connected 127.0.0.1:62939 5/31/2020 12:45:28 AM
+Connect +Connected+127.0.0.1:62939+5/31/2020 12:45:28 AM
+sdasd Unsuccessful 127.0.0.1:62939 5/31/2020 12:45:38 AM
+sdasd+Unsuccessful+127.0.0.1:62939+5/31/2020 12:45:38 AM
+fb.com Successful 127.0.0.1:62939 5/31/2020 12:45:44 AM
+fb.com+Successful+127.0.0.1:62939+5/31/2020 12:45:44 AM
+Connect  Connected 127.0.0.1:62952 5/31/2020 12:46:16 AM
+Connect +Connected+127.0.0.1:62952+5/31/2020 12:46:16 AM
+Connect  Connected 127.0.0.1:63709 5/31/2020 8:25:27 AM
+Connect +Connected+127.0.0.1:63709+5/31/2020 8:25:27 AM
+Connect  Connected 127.0.0.1:63713 5/31/2020 8:26:51 AM
+Connect +Connected+127.0.0.1:63713+5/31/2020 8:26:51 AM
+Connect  Connected 127.0.0.1:63731 5/31/2020 8:30:53 AM
+Connect +Connected+127.0.0.1:63731+5/31/2020 8:30:53 AM
+Connect  Connected 127.0.0.1:63735 5/31/2020 8:31:26 AM
+Connect +Connected+127.0.0.1:63735+5/31/2020 8:31:26 AM
+sad Unsuccessful 127.0.0.1:63735 5/31/2020 8:31:40 AM
+sad+Unsuccessful+127.0.0.1:63735+5/31/2020 8:31:40 AM
+Connect  Connected 127.0.0.1:63739 5/31/2020 8:32:11 AM
+Connect +Connected+127.0.0.1:63739+5/31/2020 8:32:11 AM
+AD Unsuccessful 127.0.0.1:63739 5/31/2020 8:32:23 AM
+AD+Unsuccessful+127.0.0.1:63739+5/31/2020 8:32:23 AM
+Connect  Connected 127.0.0.1:63745 5/31/2020 8:33:24 AM
+Connect +Connected+127.0.0.1:63745+5/31/2020 8:33:24 AM
+fb.com Successful 127.0.0.1:63745 5/31/2020 8:33:33 AM
+fb.com+Successful+127.0.0.1:63745+5/31/2020 8:33:33 AM
+Connect  Connected 127.0.0.1:63749 5/31/2020 8:33:54 AM
+Connect +Connected+127.0.0.1:63749+5/31/2020 8:33:54 AM
+fb.com Successful 127.0.0.1:63749 5/31/2020 8:34:00 AM
+fb.com+Successful+127.0.0.1:63749+5/31/2020 8:34:00 AM
+Connect  Connected 127.0.0.1:63780 5/31/2020 8:45:12 AM
+Connect +Connected+127.0.0.1:63780+5/31/2020 8:45:12 AM
+fb.com Successful 127.0.0.1:63780 5/31/2020 8:45:17 AM
+fb.com+Successful+127.0.0.1:63780+5/31/2020 8:45:17 AM
+Connect  Connected 127.0.0.1:63873 5/31/2020 8:49:33 AM
+Connect +Connected+127.0.0.1:63873+5/31/2020 8:49:33 AM
+dsd Unsuccessful 127.0.0.1:63873 5/31/2020 8:49:46 AM
+dsd+Unsuccessful+127.0.0.1:63873+5/31/2020 8:49:46 AM
+fb.com Successful 127.0.0.1:63873 5/31/2020 8:49:52 AM
+fb.com+Successful+127.0.0.1:63873+5/31/2020 8:49:52 AM
+Connect  Connected 127.0.0.1:63878 5/31/2020 8:50:23 AM
+Connect +Connected+127.0.0.1:63878+5/31/2020 8:50:23 AM
+fb.com Successful 127.0.0.1:63878 5/31/2020 8:50:28 AM
+fb.com+Successful+127.0.0.1:63878+5/31/2020 8:50:28 AM
+tiin.vn Successful 127.0.0.1:63878 5/31/2020 8:50:50 AM
+tiin.vn+Successful+127.0.0.1:63878+5/31/2020 8:50:50 AM
+sdf Unsuccessful 127.0.0.1:63878 5/31/2020 8:51:08 AM
+sdf+Unsuccessful+127.0.0.1:63878+5/31/2020 8:51:08 AM
+Connect  Connected 127.0.0.1:63991 5/31/2020 8:51:30 AM
+Connect +Connected+127.0.0.1:63991+5/31/2020 8:51:30 AM
+sd Unsuccessful 127.0.0.1:63991 5/31/2020 8:51:39 AM
+sd+Unsuccessful+127.0.0.1:63991+5/31/2020 8:51:39 AM
+fb.com Successful 127.0.0.1:63991 5/31/2020 8:51:49 AM
+fb.com+Successful+127.0.0.1:63991+5/31/2020 8:51:49 AM
+ds Unsuccessful 127.0.0.1:63991 5/31/2020 8:52:09 AM
+ds+Unsuccessful+127.0.0.1:63991+5/31/2020 8:52:09 AM
+dangcongsan.vn Successful 127.0.0.1:63991 5/31/2020 8:52:18 AM
+dangcongsan.vn+Successful+127.0.0.1:63991+5/31/2020 8:52:18 AM
+Connect  Connected 127.0.0.1:64027 5/31/2020 8:53:09 AM
+Connect +Connected+127.0.0.1:64027+5/31/2020 8:53:09 AM
+Connect  Connected 127.0.0.1:64174 5/31/2020 8:57:28 AM
+Connect +Connected+127.0.0.1:64174+5/31/2020 8:57:28 AM
+Connect  Connected 127.0.0.1:64178 5/31/2020 8:57:55 AM
+Connect +Connected+127.0.0.1:64178+5/31/2020 8:57:55 AM
+Connect  Connected 127.0.0.1:64324 5/31/2020 9:32:44 AM
+Connect +Connected+127.0.0.1:64324+5/31/2020 9:32:44 AM
+ad Unsuccessful 127.0.0.1:64324 5/31/2020 9:32:54 AM
+ad+Unsuccessful+127.0.0.1:64324+5/31/2020 9:32:54 AM
+fb.com Successful 127.0.0.1:64324 5/31/2020 9:33:00 AM
+fb.com+Successful+127.0.0.1:64324+5/31/2020 9:33:00 AM
+Connect  Connected 127.0.0.1:64342 5/31/2020 9:34:24 AM
+Connect +Connected+127.0.0.1:64342+5/31/2020 9:34:24 AM
+ds Unsuccessful 127.0.0.1:64342 5/31/2020 9:34:33 AM
+ds+Unsuccessful+127.0.0.1:64342+5/31/2020 9:34:33 AM
+fb.com Successful 127.0.0.1:64342 5/31/2020 9:34:40 AM
+fb.com+Successful+127.0.0.1:64342+5/31/2020 9:34:40 AM
+Connect  Connected 127.0.0.1:64390 5/31/2020 9:46:55 AM
+Connect +Connected+127.0.0.1:64390+5/31/2020 9:46:55 AM
+fb.com Successful 127.0.0.1:64390 5/31/2020 9:47:01 AM
+fb.com+Successful+127.0.0.1:64390+5/31/2020 9:47:01 AM
+Connect  Connected 127.0.0.1:64501 5/31/2020 9:55:15 AM
+Connect +Connected+127.0.0.1:64501+5/31/2020 9:55:15 AM
+fb.com Successful 127.0.0.1:64501 5/31/2020 9:55:20 AM
+fb.com+Successful+127.0.0.1:64501+5/31/2020 9:55:20 AM
+Connect  Connected 127.0.0.1:64544 5/31/2020 10:04:23 AM
+Connect +Connected+127.0.0.1:64544+5/31/2020 10:04:23 AM
+fb.com Successful 127.0.0.1:64544 5/31/2020 10:04:28 AM
+fb.com+Successful+127.0.0.1:64544+5/31/2020 10:04:28 AM
+Connect  Connected 127.0.0.1:64562 5/31/2020 10:04:51 AM
+Connect +Connected+127.0.0.1:64562+5/31/2020 10:04:51 AM
+fb.com Successful 127.0.0.1:64562 5/31/2020 10:04:56 AM
+fb.com+Successful+127.0.0.1:64562+5/31/2020 10:04:56 AM
+Connect  Connected 127.0.0.1:64612 5/31/2020 10:09:19 AM
+Connect +Connected+127.0.0.1:64612+5/31/2020 10:09:19 AM
+Connect  Connected 127.0.0.1:64634 5/31/2020 10:10:19 AM
+Connect +Connected+127.0.0.1:64634+5/31/2020 10:10:19 AM
+fb.com Successful 127.0.0.1:64634 5/31/2020 10:10:24 AM
+fb.com+Successful+127.0.0.1:64634+5/31/2020 10:10:24 AM
+tiin.vn Successful 127.0.0.1:64634 5/31/2020 10:10:38 AM
+tiin.vn+Successful+127.0.0.1:64634+5/31/2020 10:10:38 AM
+google/com Unsuccessful 127.0.0.1:64634 5/31/2020 10:11:01 AM
+google/com+Unsuccessful+127.0.0.1:64634+5/31/2020 10:11:01 AM
+google.com Successful 127.0.0.1:64634 5/31/2020 10:11:07 AM
+google.com+Successful+127.0.0.1:64634+5/31/2020 10:11:07 AM
+Connect  Connected 127.0.0.1:64840 5/31/2020 10:12:21 AM
+Connect +Connected+127.0.0.1:64840+5/31/2020 10:12:21 AM
+sd Unsuccessful 127.0.0.1:64840 5/31/2020 10:12:36 AM
+sd+Unsuccessful+127.0.0.1:64840+5/31/2020 10:12:36 AM
+fb.com Successful 127.0.0.1:64840 5/31/2020 10:12:42 AM
+fb.com+Successful+127.0.0.1:64840+5/31/2020 10:12:42 AM
+youtube.com Successful 127.0.0.1:64840 5/31/2020 10:13:05 AM
+youtube.com+Successful+127.0.0.1:64840+5/31/2020 10:13:05 AM
+Connect  Connected 127.0.0.1:65020 5/31/2020 10:27:43 AM
+Connect +Connected+127.0.0.1:65020+5/31/2020 10:27:43 AM
+google.com Successful 127.0.0.1:65020 5/31/2020 10:27:49 AM
+google.com+Successful+127.0.0.1:65020+5/31/2020 10:27:49 AM
+daa.uit.edu.vn Successful 127.0.0.1:65020 5/31/2020 10:28:09 AM
+daa.uit.edu.vn+Successful+127.0.0.1:65020+5/31/2020 10:28:09 AM
+kfhfddfdf Unsuccessful 127.0.0.1:65020 5/31/2020 10:28:30 AM
+kfhfddfdf+Unsuccessful+127.0.0.1:65020+5/31/2020 10:28:30 AM
+tjkjsdkfhsjkfsdfd Unsuccessful 127.0.0.1:65020 5/31/2020 10:28:36 AM
+tjkjsdkfhsjkfsdfd+Unsuccessful+127.0.0.1:65020+5/31/2020 10:28:36 AM
+thai.vn Successful 127.0.0.1:65020 5/31/2020 10:28:41 AM
+thai.vn+Successful+127.0.0.1:65020+5/31/2020 10:28:41 AM
+Connect  Connected 127.0.0.1:65087 5/31/2020 10:33:11 AM
+Connect +Connected+127.0.0.1:65087+5/31/2020 10:33:11 AM
+Connect  Connected 127.0.0.1:65294 5/31/2020 12:24:57 PM
+Connect +Connected+127.0.0.1:65294+5/31/2020 12:24:57 PM
+daa. Unsuccessful 127.0.0.1:65294 5/31/2020 12:25:27 PM
+daa.+Unsuccessful+127.0.0.1:65294+5/31/2020 12:25:27 PM
+daa.uit.edu.vn Successful 127.0.0.1:65294 5/31/2020 12:25:35 PM
+daa.uit.edu.vn+Successful+127.0.0.1:65294+5/31/2020 12:25:35 PM
+Connect  Connected 127.0.0.1:65395 5/31/2020 1:01:45 PM
+Connect +Connected+127.0.0.1:65395+5/31/2020 1:01:45 PM
+sd Unsuccessful 127.0.0.1:65395 5/31/2020 1:01:55 PM
+sd+Unsuccessful+127.0.0.1:65395+5/31/2020 1:01:55 PM
+fb.com Successful 127.0.0.1:65395 5/31/2020 1:02:01 PM
+fb.com+Successful+127.0.0.1:65395+5/31/2020 1:02:01 PM
+tiin.vn Successful 127.0.0.1:65395 5/31/2020 1:02:13 PM
+tiin.vn+Successful+127.0.0.1:65395+5/31/2020 1:02:13 PM
+Connect  Connected 127.0.0.1:49429 5/31/2020 1:52:49 PM
+Connect +Connected+127.0.0.1:49429+5/31/2020 1:52:49 PM
+fb.com Unsuccessful 127.0.0.1:49429 5/31/2020 1:52:56 PM
+fb.com+Unsuccessful+127.0.0.1:49429+5/31/2020 1:52:56 PM
+ds Unsuccessful 127.0.0.1:49429 5/31/2020 1:53:16 PM
+ds+Unsuccessful+127.0.0.1:49429+5/31/2020 1:53:16 PM
+fb.com Unsuccessful 127.0.0.1:49429 5/31/2020 1:53:22 PM
+fb.com+Unsuccessful+127.0.0.1:49429+5/31/2020 1:53:22 PM
+Connect  Connected 127.0.0.1:49473 5/31/2020 1:56:25 PM
+Connect +Connected+127.0.0.1:49473+5/31/2020 1:56:25 PM
+fb.com Unsuccessful 127.0.0.1:49473 5/31/2020 1:56:30 PM
+fb.com+Unsuccessful+127.0.0.1:49473+5/31/2020 1:56:30 PM
+Connect  Connected 127.0.0.1:50085 5/31/2020 4:08:58 PM
+Connect +Connected+127.0.0.1:50085+5/31/2020 4:08:58 PM
+fb.com Successful 127.0.0.1:50085 5/31/2020 4:09:04 PM
+fb.com+Successful+127.0.0.1:50085+5/31/2020 4:09:04 PM
+Connect  Connected 127.0.0.1:50110 5/31/2020 4:09:37 PM
+Connect +Connected+127.0.0.1:50110+5/31/2020 4:09:37 PM
+fb.com Successful 127.0.0.1:50110 5/31/2020 4:09:43 PM
+fb.com+Successful+127.0.0.1:50110+5/31/2020 4:09:43 PM
+Connect  Connected 127.0.0.1:50160 5/31/2020 4:10:38 PM
+Connect +Connected+127.0.0.1:50160+5/31/2020 4:10:38 PM
+sadsd Unsuccessful 127.0.0.1:50160 5/31/2020 4:10:49 PM
+sadsd+Unsuccessful+127.0.0.1:50160+5/31/2020 4:10:49 PM
+sd Unsuccessful 127.0.0.1:50160 5/31/2020 4:10:54 PM
+sd+Unsuccessful+127.0.0.1:50160+5/31/2020 4:10:54 PM
+tiin.vn Successful 127.0.0.1:50160 5/31/2020 4:11:00 PM
+tiin.vn+Successful+127.0.0.1:50160+5/31/2020 4:11:00 PM
+https://www.youtube.com/watch?v=R_xMXqW96A0 Successful 127.0.0.1:50160 5/31/2020 4:11:21 PM
+https://www.youtube.com/watch?v=R_xMXqW96A0+Successful+127.0.0.1:50160+5/31/2020 4:11:21 PM
+Connect  Connected 127.0.0.1:50351 5/31/2020 4:14:03 PM
+Connect +Connected+127.0.0.1:50351+5/31/2020 4:14:03 PM
+thai.vn Successful 127.0.0.1:50351 5/31/2020 4:14:08 PM
+thai.vn+Successful+127.0.0.1:50351+5/31/2020 4:14:08 PM
+Connect  Connected 127.0.0.1:51747 5/31/2020 10:17:45 PM
+Connect +Connected+127.0.0.1:51747+5/31/2020 10:17:45 PM
+d Unsuccessful 127.0.0.1:51747 5/31/2020 10:17:54 PM
+d+Unsuccessful+127.0.0.1:51747+5/31/2020 10:17:54 PM
+fb.com Successful 127.0.0.1:51747 5/31/2020 10:18:00 PM
+fb.com+Successful+127.0.0.1:51747+5/31/2020 10:18:00 PM
+Connect  Connected 127.0.0.1:51770 5/31/2020 10:19:14 PM
+Connect +Connected+127.0.0.1:51770+5/31/2020 10:19:14 PM
+Connect  Connected 127.0.0.1:51800 5/31/2020 10:23:25 PM
+Connect +Connected+127.0.0.1:51800+5/31/2020 10:23:25 PM
+fb.com Successful 127.0.0.1:51800 5/31/2020 10:23:30 PM
+fb.com+Successful+127.0.0.1:51800+5/31/2020 10:23:30 PM
+Connect  Connected 127.0.0.1:51817 5/31/2020 10:24:31 PM
+Connect +Connected+127.0.0.1:51817+5/31/2020 10:24:31 PM
+fb.com Successful 127.0.0.1:51817 5/31/2020 10:24:41 PM
+fb.com+Successful+127.0.0.1:51817+5/31/2020 10:24:41 PM
+sd Unsuccessful 127.0.0.1:51817 5/31/2020 10:25:23 PM
+sd+Unsuccessful+127.0.0.1:51817+5/31/2020 10:25:23 PM
+fb.com Successful 127.0.0.1:51817 5/31/2020 10:25:27 PM
+fb.com+Successful+127.0.0.1:51817+5/31/2020 10:25:27 PM
+Connect  Connected 127.0.0.1:51845 5/31/2020 10:29:10 PM
+Connect +Connected+127.0.0.1:51845+5/31/2020 10:29:10 PM
+thai.vn Successful 127.0.0.1:51845 5/31/2020 10:29:20 PM
+thai.vn+Successful+127.0.0.1:51845+5/31/2020 10:29:20 PM
+Connect  Connected 127.0.0.1:51885 5/31/2020 10:30:22 PM
+Connect +Connected+127.0.0.1:51885+5/31/2020 10:30:22 PM
+fb.com Successful 127.0.0.1:51885 5/31/2020 10:30:27 PM
+fb.com+Successful+127.0.0.1:51885+5/31/2020 10:30:27 PM
+Connect  Connected 127.0.0.1:52044 5/31/2020 10:46:47 PM
+Connect +Connected+127.0.0.1:52044+5/31/2020 10:46:47 PM
+fb.com Successful 127.0.0.1:52044 5/31/2020 10:46:52 PM
+fb.com+Successful+127.0.0.1:52044+5/31/2020 10:46:52 PM
+Connect  Connected 127.0.0.1:52049 5/31/2020 10:47:27 PM
+Connect +Connected+127.0.0.1:52049+5/31/2020 10:47:27 PM
+dsa Unsuccessful 127.0.0.1:52049 5/31/2020 10:47:38 PM
+dsa+Unsuccessful+127.0.0.1:52049+5/31/2020 10:47:38 PM
+Connect  Connected 127.0.0.1:52141 5/31/2020 10:54:40 PM
+Connect +Connected+127.0.0.1:52141+5/31/2020 10:54:40 PM
+fb.com Successful 127.0.0.1:52141 5/31/2020 10:54:45 PM
+fb.com+Successful+127.0.0.1:52141+5/31/2020 10:54:45 PM
+Connect  Connected 127.0.0.1:52203 5/31/2020 10:57:29 PM
+Connect +Connected+127.0.0.1:52203+5/31/2020 10:57:29 PM
+fb.com Successful 127.0.0.1:52203 5/31/2020 10:57:34 PM
+fb.com+Successful+127.0.0.1:52203+5/31/2020 10:57:34 PM
+Connect  Connected 127.0.0.1:52208 5/31/2020 10:57:50 PM
+Connect +Connected+127.0.0.1:52208+5/31/2020 10:57:50 PM
+google.com Successful 127.0.0.1:52208 5/31/2020 10:57:56 PM
+google.com+Successful+127.0.0.1:52208+5/31/2020 10:57:56 PM
+Connect  Connected 127.0.0.1:53829 6/1/2020 1:18:26 AM
+Connect +Connected+127.0.0.1:53829+6/1/2020 1:18:26 AM
+ád Unsuccessful 127.0.0.1:53829 6/1/2020 1:18:36 AM
+ád+Unsuccessful+127.0.0.1:53829+6/1/2020 1:18:36 AM
+Connect  Connected 127.0.0.1:54568 6/1/2020 2:44:26 AM
+Connect +Connected+127.0.0.1:54568+6/1/2020 2:44:26 AM
+fb.com null 127.0.0.1:54568 6/1/2020 2:44:31 AM
+fb.com+null+127.0.0.1:54568+6/1/2020 2:44:31 AM
+Connect  Connected 127.0.0.1:54606 6/1/2020 2:47:37 AM
+Connect +Connected+127.0.0.1:54606+6/1/2020 2:47:37 AM
+dsas Unsuccessful 127.0.0.1:54606 6/1/2020 2:47:52 AM
+dsas+Unsuccessful+127.0.0.1:54606+6/1/2020 2:47:52 AM
+tiin.vn null 127.0.0.1:54606 6/1/2020 2:48:01 AM
+tiin.vn+null+127.0.0.1:54606+6/1/2020 2:48:01 AM
+Connect  Connected 127.0.0.1:54682 6/1/2020 2:51:00 AM
+Connect +Connected+127.0.0.1:54682+6/1/2020 2:51:00 AM
+sd Unsuccessful 127.0.0.1:54682 6/1/2020 2:51:11 AM
+sd+Unsuccessful+127.0.0.1:54682+6/1/2020 2:51:11 AM
+tiin.vn null 127.0.0.1:54682 6/1/2020 2:51:19 AM
+tiin.vn+null+127.0.0.1:54682+6/1/2020 2:51:19 AM
+dangcongsan.vn null 127.0.0.1:54682 6/1/2020 2:51:31 AM
+dangcongsan.vn+null+127.0.0.1:54682+6/1/2020 2:51:31 AM
+fb.com null 127.0.0.1:54682 6/1/2020 2:51:40 AM
+fb.com+null+127.0.0.1:54682+6/1/2020 2:51:40 AM
+Connect  Connected 127.0.0.1:54798 6/1/2020 2:53:24 AM
+Connect +Connected+127.0.0.1:54798+6/1/2020 2:53:24 AM
+fb.com null 127.0.0.1:54798 6/1/2020 2:53:29 AM
+fb.com+null+127.0.0.1:54798+6/1/2020 2:53:29 AM
+thai.vn null 127.0.0.1:54798 6/1/2020 2:53:38 AM
+thai.vn+null+127.0.0.1:54798+6/1/2020 2:53:38 AM
+Connect  Connected 127.0.0.1:54828 6/1/2020 2:55:20 AM
+Connect +Connected+127.0.0.1:54828+6/1/2020 2:55:20 AM
+fb.com null 127.0.0.1:54828 6/1/2020 2:55:25 AM
+fb.com+null+127.0.0.1:54828+6/1/2020 2:55:25 AM
+Connect  Connected 127.0.0.1:54832 6/1/2020 2:57:06 AM
+Connect +Connected+127.0.0.1:54832+6/1/2020 2:57:06 AM
+fb.com Unsuccessful 127.0.0.1:54832 6/1/2020 2:57:12 AM
+fb.com+Unsuccessful+127.0.0.1:54832+6/1/2020 2:57:12 AM
+sd Unsuccessful 127.0.0.1:54832 6/1/2020 2:57:29 AM
+sd+Unsuccessful+127.0.0.1:54832+6/1/2020 2:57:29 AM
+Connect  Connected 127.0.0.1:54836 6/1/2020 2:57:41 AM
+Connect +Connected+127.0.0.1:54836+6/1/2020 2:57:41 AM
+fb.com Unsuccessful 127.0.0.1:54836 6/1/2020 2:57:47 AM
+fb.com+Unsuccessful+127.0.0.1:54836+6/1/2020 2:57:47 AM
+Connect  Connected 127.0.0.1:54865 6/1/2020 3:04:32 AM
+Connect +Connected+127.0.0.1:54865+6/1/2020 3:04:32 AM
+dsa Unsuccessful 127.0.0.1:54865 6/1/2020 3:04:48 AM
+dsa+Unsuccessful+127.0.0.1:54865+6/1/2020 3:04:48 AM
+fb.com Unsuccessful 127.0.0.1:54865 6/1/2020 3:04:58 AM
+fb.com+Unsuccessful+127.0.0.1:54865+6/1/2020 3:04:58 AM
+Connect  Connected 127.0.0.1:54888 6/1/2020 3:09:44 AM
+Connect +Connected+127.0.0.1:54888+6/1/2020 3:09:44 AM
+Connect  Connected 127.0.0.1:54902 6/1/2020 3:23:26 AM
+Connect +Connected+127.0.0.1:54902+6/1/2020 3:23:26 AM
+Connect  Connected 127.0.0.1:54903 6/1/2020 3:23:44 AM
+Connect +Connected+127.0.0.1:54903+6/1/2020 3:23:44 AM
+dá Unsuccessful 127.0.0.1:54903 6/1/2020 3:23:59 AM
+dá+Unsuccessful+127.0.0.1:54903+6/1/2020 3:23:59 AM
+thai.vn Unsuccessful 127.0.0.1:54903 6/1/2020 3:24:06 AM
+thai.vn+Unsuccessful+127.0.0.1:54903+6/1/2020 3:24:06 AM
+Connect  Connected 127.0.0.1:56141 6/1/2020 12:29:08 PM
+Connect +Connected+127.0.0.1:56141+6/1/2020 12:29:08 PM
+jgj Unsuccessful 127.0.0.1:56141 6/1/2020 12:29:21 PM
+jgj+Unsuccessful+127.0.0.1:56141+6/1/2020 12:29:21 PM
+fb.com Unsuccessful 127.0.0.1:56141 6/1/2020 12:29:29 PM
+fb.com+Unsuccessful+127.0.0.1:56141+6/1/2020 12:29:29 PM
+Connect  Connected 127.0.0.1:56161 6/1/2020 12:30:43 PM
+Connect +Connected+127.0.0.1:56161+6/1/2020 12:30:43 PM
+Connect  Connected 127.0.0.1:56175 6/1/2020 12:32:16 PM
+Connect +Connected+127.0.0.1:56175+6/1/2020 12:32:16 PM
+Connect  Connected 127.0.0.1:56180 6/1/2020 12:33:24 PM
+Connect +Connected+127.0.0.1:56180+6/1/2020 12:33:24 PM
+fb.com Unsuccessful 127.0.0.1:56180 6/1/2020 12:33:30 PM
+fb.com+Unsuccessful+127.0.0.1:56180+6/1/2020 12:33:30 PM
+Connect  Connected 127.0.0.1:56233 6/1/2020 12:34:02 PM
+Connect +Connected+127.0.0.1:56233+6/1/2020 12:34:02 PM
+fb.com Unsuccessful 127.0.0.1:56233 6/1/2020 12:34:09 PM
+fb.com+Unsuccessful+127.0.0.1:56233+6/1/2020 12:34:09 PM
+Connect  Connected 127.0.0.1:56238 6/1/2020 12:34:30 PM
+Connect +Connected+127.0.0.1:56238+6/1/2020 12:34:30 PM
+fb.com Unsuccessful 127.0.0.1:56238 6/1/2020 12:34:36 PM
+fb.com+Unsuccessful+127.0.0.1:56238+6/1/2020 12:34:36 PM
+Connect  Connected 127.0.0.1:56242 6/1/2020 12:35:24 PM
+Connect +Connected+127.0.0.1:56242+6/1/2020 12:35:24 PM
+fb.com Unsuccessful 127.0.0.1:56242 6/1/2020 12:35:29 PM
+fb.com+Unsuccessful+127.0.0.1:56242+6/1/2020 12:35:29 PM
+Connect  Connected 127.0.0.1:56248 6/1/2020 12:36:19 PM
+Connect +Connected+127.0.0.1:56248+6/1/2020 12:36:19 PM
+fb.com Unsuccessful 127.0.0.1:56248 6/1/2020 12:36:24 PM
+fb.com+Unsuccessful+127.0.0.1:56248+6/1/2020 12:36:24 PM
+Connect  Connected 127.0.0.1:56256 6/1/2020 12:37:47 PM
+Connect +Connected+127.0.0.1:56256+6/1/2020 12:37:47 PM
+fb.com Unsuccessful 127.0.0.1:56256 6/1/2020 12:37:50 PM
+fb.com+Unsuccessful+127.0.0.1:56256+6/1/2020 12:37:50 PM
+Connect  Connected 127.0.0.1:56528 6/1/2020 2:20:37 PM
+Connect +Connected+127.0.0.1:56528+6/1/2020 2:20:37 PM
+Connect  Connected 127.0.0.1:56535 6/1/2020 2:21:59 PM
+Connect +Connected+127.0.0.1:56535+6/1/2020 2:21:59 PM
+fb.com Unsuccessful 127.0.0.1:56535 6/1/2020 2:22:03 PM
+fb.com+Unsuccessful+127.0.0.1:56535+6/1/2020 2:22:03 PM
+Connect  Connected 127.0.0.1:56566 6/1/2020 2:22:23 PM
+Connect +Connected+127.0.0.1:56566+6/1/2020 2:22:23 PM
+Connect  Connected 127.0.0.1:56879 6/1/2020 2:28:13 PM
+Connect +Connected+127.0.0.1:56879+6/1/2020 2:28:13 PM
+Connect  Connected 127.0.0.1:56887 6/1/2020 2:29:03 PM
+Connect +Connected+127.0.0.1:56887+6/1/2020 2:29:03 PM
+fb.com Unsuccessful 127.0.0.1:56887 6/1/2020 2:29:08 PM
+fb.com+Unsuccessful+127.0.0.1:56887+6/1/2020 2:29:08 PM
+Connect  Connected 127.0.0.1:56928 6/1/2020 2:29:57 PM
+Connect +Connected+127.0.0.1:56928+6/1/2020 2:29:57 PM
+google.com Unsuccessful 127.0.0.1:56928 6/1/2020 2:30:03 PM
+google.com+Unsuccessful+127.0.0.1:56928+6/1/2020 2:30:03 PM
+Connect  Connected 127.0.0.1:56946 6/1/2020 2:32:01 PM
+Connect +Connected+127.0.0.1:56946+6/1/2020 2:32:01 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:56946 6/1/2020 2:32:09 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:56946+6/1/2020 2:32:09 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:56946 6/1/2020 2:32:10 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:56946+6/1/2020 2:32:10 PM
+fb.com Unsuccessful 127.0.0.1:56946 6/1/2020 2:32:33 PM
+fb.com+Unsuccessful+127.0.0.1:56946+6/1/2020 2:32:33 PM
+fb.com Unsuccessful 127.0.0.1:56946 6/1/2020 2:32:34 PM
+fb.com+Unsuccessful+127.0.0.1:56946+6/1/2020 2:32:34 PM
+Connect  Connected 127.0.0.1:57013 6/1/2020 2:32:51 PM
+Connect +Connected+127.0.0.1:57013+6/1/2020 2:32:51 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:57013 6/1/2020 2:33:00 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:57013+6/1/2020 2:33:00 PM
+Connect  Connected 127.0.0.1:57052 6/1/2020 2:48:29 PM
+Connect +Connected+127.0.0.1:57052+6/1/2020 2:48:29 PM
+Connect  Connected 127.0.0.1:57055 6/1/2020 2:49:24 PM
+Connect +Connected+127.0.0.1:57055+6/1/2020 2:49:24 PM
+Connect  Connected 127.0.0.1:57058 6/1/2020 2:51:02 PM
+Connect +Connected+127.0.0.1:57058+6/1/2020 2:51:02 PM
+Connect  Connected 127.0.0.1:57059 6/1/2020 2:52:04 PM
+Connect +Connected+127.0.0.1:57059+6/1/2020 2:52:04 PM
+fb.com Unsuccessful 127.0.0.1:57059 6/1/2020 2:52:09 PM
+fb.com+Unsuccessful+127.0.0.1:57059+6/1/2020 2:52:09 PM
+Connect  Connected 127.0.0.1:57190 6/1/2020 3:14:07 PM
+Connect +Connected+127.0.0.1:57190+6/1/2020 3:14:07 PM
+fb.com Unsuccessful 127.0.0.1:57190 6/1/2020 3:14:17 PM
+fb.com+Unsuccessful+127.0.0.1:57190+6/1/2020 3:14:17 PM
+Connect  Connected 127.0.0.1:57208 6/1/2020 3:14:40 PM
+Connect +Connected+127.0.0.1:57208+6/1/2020 3:14:40 PM
+fb.com Unsuccessful 127.0.0.1:57208 6/1/2020 3:14:46 PM
+fb.com+Unsuccessful+127.0.0.1:57208+6/1/2020 3:14:46 PM
+fb.com Unsuccessful 127.0.0.1:57208 6/1/2020 3:15:13 PM
+fb.com+Unsuccessful+127.0.0.1:57208+6/1/2020 3:15:13 PM
+Connect  Connected 127.0.0.1:57268 6/1/2020 3:36:21 PM
+Connect +Connected+127.0.0.1:57268+6/1/2020 3:36:21 PM
+fb.com Unsuccessful 127.0.0.1:57268 6/1/2020 3:36:35 PM
+fb.com+Unsuccessful+127.0.0.1:57268+6/1/2020 3:36:35 PM
+fb.com Unsuccessful 127.0.0.1:57268 6/1/2020 3:36:48 PM
+fb.com+Unsuccessful+127.0.0.1:57268+6/1/2020 3:36:48 PM
+fb.com Unsuccessful 127.0.0.1:57268 6/1/2020 3:36:58 PM
+fb.com+Unsuccessful+127.0.0.1:57268+6/1/2020 3:36:58 PM
+fb.com Unsuccessful 127.0.0.1:57268 6/1/2020 3:37:18 PM
+fb.com+Unsuccessful+127.0.0.1:57268+6/1/2020 3:37:18 PM
+fb.com Unsuccessful 127.0.0.1:57268 6/1/2020 3:37:29 PM
+fb.com+Unsuccessful+127.0.0.1:57268+6/1/2020 3:37:29 PM
+Connect  Connected 127.0.0.1:57385 6/1/2020 3:40:11 PM
+Connect +Connected+127.0.0.1:57385+6/1/2020 3:40:11 PM
+fb.com Unsuccessful 127.0.0.1:57385 6/1/2020 3:41:01 PM
+fb.com+Unsuccessful+127.0.0.1:57385+6/1/2020 3:41:01 PM
+Connect  Connected 127.0.0.1:57413 6/1/2020 3:42:31 PM
+Connect +Connected+127.0.0.1:57413+6/1/2020 3:42:31 PM
+fb.com Unsuccessful 127.0.0.1:57413 6/1/2020 3:43:10 PM
+fb.com+Unsuccessful+127.0.0.1:57413+6/1/2020 3:43:10 PM
+Connect  Connected 127.0.0.1:57442 6/1/2020 3:45:51 PM
+Connect +Connected+127.0.0.1:57442+6/1/2020 3:45:51 PM
+fb.com Unsuccessful 127.0.0.1:57442 6/1/2020 3:46:13 PM
+fb.com+Unsuccessful+127.0.0.1:57442+6/1/2020 3:46:13 PM
+Connect  Connected 127.0.0.1:57523 6/1/2020 3:48:01 PM
+Connect +Connected+127.0.0.1:57523+6/1/2020 3:48:01 PM
+fb.com Unsuccessful 127.0.0.1:57523 6/1/2020 3:48:34 PM
+fb.com+Unsuccessful+127.0.0.1:57523+6/1/2020 3:48:34 PM
+Connect  Connected 127.0.0.1:57567 6/1/2020 4:12:42 PM
+Connect +Connected+127.0.0.1:57567+6/1/2020 4:12:42 PM
+Connect  Connected 127.0.0.1:57568 6/1/2020 4:13:07 PM
+Connect +Connected+127.0.0.1:57568+6/1/2020 4:13:07 PM
+fb.com Unsuccessful 127.0.0.1:57568 6/1/2020 4:13:13 PM
+fb.com+Unsuccessful+127.0.0.1:57568+6/1/2020 4:13:13 PM
+Connect  Connected 127.0.0.1:57572 6/1/2020 4:13:30 PM
+Connect +Connected+127.0.0.1:57572+6/1/2020 4:13:30 PM
+fb.com Unsuccessful 127.0.0.1:57572 6/1/2020 4:13:39 PM
+fb.com+Unsuccessful+127.0.0.1:57572+6/1/2020 4:13:39 PM
+fb.com Unsuccessful 127.0.0.1:57572 6/1/2020 4:14:08 PM
+fb.com+Unsuccessful+127.0.0.1:57572+6/1/2020 4:14:08 PM
+fb.com Unsuccessful 127.0.0.1:57572 6/1/2020 4:15:03 PM
+fb.com+Unsuccessful+127.0.0.1:57572+6/1/2020 4:15:03 PM
+fb.com Unsuccessful 127.0.0.1:57572 6/1/2020 4:15:15 PM
+fb.com+Unsuccessful+127.0.0.1:57572+6/1/2020 4:15:15 PM
+Connect  Connected 127.0.0.1:57665 6/1/2020 4:17:56 PM
+Connect +Connected+127.0.0.1:57665+6/1/2020 4:17:56 PM
+fb.com Unsuccessful 127.0.0.1:57665 6/1/2020 4:18:31 PM
+fb.com+Unsuccessful+127.0.0.1:57665+6/1/2020 4:18:31 PM
+fb.com Unsuccessful 127.0.0.1:57665 6/1/2020 4:18:50 PM
+fb.com+Unsuccessful+127.0.0.1:57665+6/1/2020 4:18:50 PM
+Connect  Connected 127.0.0.1:57735 6/1/2020 4:37:12 PM
+Connect +Connected+127.0.0.1:57735+6/1/2020 4:37:12 PM
+fb.com Unsuccessful 127.0.0.1:57735 6/1/2020 4:37:22 PM
+fb.com+Unsuccessful+127.0.0.1:57735+6/1/2020 4:37:22 PM
+Connect  Connected 127.0.0.1:57753 6/1/2020 4:40:24 PM
+Connect +Connected+127.0.0.1:57753+6/1/2020 4:40:24 PM
+fb.com Successful 127.0.0.1:57753 6/1/2020 4:40:38 PM
+fb.com+Successful+127.0.0.1:57753+6/1/2020 4:40:38 PM
+Connect  Connected 127.0.0.1:57776 6/1/2020 4:41:56 PM
+Connect +Connected+127.0.0.1:57776+6/1/2020 4:41:56 PM
+fb.com Error 127.0.0.1:57776 6/1/2020 4:42:09 PM
+fb.com+Error+127.0.0.1:57776+6/1/2020 4:42:09 PM
+Connect  Connected 127.0.0.1:57780 6/1/2020 4:43:10 PM
+Connect +Connected+127.0.0.1:57780+6/1/2020 4:43:10 PM
+fb.com Error 127.0.0.1:57780 6/1/2020 4:43:18 PM
+fb.com+Error+127.0.0.1:57780+6/1/2020 4:43:18 PM
+fb.com Successful 127.0.0.1:57780 6/1/2020 4:43:29 PM
+fb.com+Successful+127.0.0.1:57780+6/1/2020 4:43:29 PM
+Connect  Connected 127.0.0.1:57808 6/1/2020 4:51:31 PM
+Connect +Connected+127.0.0.1:57808+6/1/2020 4:51:31 PM
+fb.com Successful 127.0.0.1:57808 6/1/2020 4:51:45 PM
+fb.com+Successful+127.0.0.1:57808+6/1/2020 4:51:45 PM
+Connect  Connected 127.0.0.1:57832 6/1/2020 4:52:42 PM
+Connect +Connected+127.0.0.1:57832+6/1/2020 4:52:42 PM
+fb.com Successful 127.0.0.1:57832 6/1/2020 4:52:53 PM
+fb.com+Successful+127.0.0.1:57832+6/1/2020 4:52:53 PM
+Connect  Connected 127.0.0.1:57979 6/1/2020 5:42:20 PM
+Connect +Connected+127.0.0.1:57979+6/1/2020 5:42:20 PM
+fb.com Error 127.0.0.1:57979 6/1/2020 5:42:33 PM
+fb.com+Error+127.0.0.1:57979+6/1/2020 5:42:33 PM
+fb.com Error 127.0.0.1:57979 6/1/2020 5:42:45 PM
+fb.com+Error+127.0.0.1:57979+6/1/2020 5:42:45 PM
+Connect  Connected 127.0.0.1:57983 6/1/2020 5:43:57 PM
+Connect +Connected+127.0.0.1:57983+6/1/2020 5:43:57 PM
+fb.com Successful 127.0.0.1:57983 6/1/2020 5:44:05 PM
+fb.com+Successful+127.0.0.1:57983+6/1/2020 5:44:05 PM
+fb.com Successful 127.0.0.1:57983 6/1/2020 5:44:22 PM
+fb.com+Successful+127.0.0.1:57983+6/1/2020 5:44:22 PM
+Connect  Connected 127.0.0.1:58013 6/1/2020 5:45:02 PM
+Connect +Connected+127.0.0.1:58013+6/1/2020 5:45:02 PM
+fb.com Error 127.0.0.1:58013 6/1/2020 5:45:20 PM
+fb.com+Error+127.0.0.1:58013+6/1/2020 5:45:20 PM
+fb.com Error 127.0.0.1:58013 6/1/2020 5:45:31 PM
+fb.com+Error+127.0.0.1:58013+6/1/2020 5:45:31 PM
+Connect  Connected 127.0.0.1:58017 6/1/2020 5:45:55 PM
+Connect +Connected+127.0.0.1:58017+6/1/2020 5:45:55 PM
+fb.com Successful 127.0.0.1:58017 6/1/2020 5:46:07 PM
+fb.com+Successful+127.0.0.1:58017+6/1/2020 5:46:07 PM
+thai.vn Successful 127.0.0.1:58017 6/1/2020 5:46:19 PM
+thai.vn+Successful+127.0.0.1:58017+6/1/2020 5:46:19 PM
+Connect  Connected 127.0.0.1:58065 6/1/2020 5:47:10 PM
+Connect +Connected+127.0.0.1:58065+6/1/2020 5:47:10 PM
+fb.com Successful 127.0.0.1:58065 6/1/2020 5:47:18 PM
+fb.com+Successful+127.0.0.1:58065+6/1/2020 5:47:18 PM
+thai.vn Successful 127.0.0.1:58065 6/1/2020 5:47:35 PM
+thai.vn+Successful+127.0.0.1:58065+6/1/2020 5:47:35 PM
+Connect  Connected 127.0.0.1:58098 6/1/2020 5:48:13 PM
+Connect +Connected+127.0.0.1:58098+6/1/2020 5:48:13 PM
+fb.com  127.0.0.1:58098 6/1/2020 5:48:21 PM
+fb.com++127.0.0.1:58098+6/1/2020 5:48:21 PM
+Connect  Connected 127.0.0.1:58113 6/1/2020 5:50:29 PM
+Connect +Connected+127.0.0.1:58113+6/1/2020 5:50:29 PM
+fb.com Successful 127.0.0.1:58113 6/1/2020 5:50:37 PM
+fb.com+Successful+127.0.0.1:58113+6/1/2020 5:50:37 PM
+thai.vn Successful 127.0.0.1:58113 6/1/2020 5:50:46 PM
+thai.vn+Successful+127.0.0.1:58113+6/1/2020 5:50:46 PM
+Connect  Connected 127.0.0.1:58138 6/1/2020 5:51:22 PM
+Connect +Connected+127.0.0.1:58138+6/1/2020 5:51:22 PM
+fb.com  127.0.0.1:58138 6/1/2020 5:51:27 PM
+fb.com++127.0.0.1:58138+6/1/2020 5:51:27 PM
+Connect  Connected 127.0.0.1:58142 6/1/2020 5:51:42 PM
+Connect +Connected+127.0.0.1:58142+6/1/2020 5:51:42 PM
+fb.com Successful 127.0.0.1:58142 6/1/2020 5:51:49 PM
+fb.com+Successful+127.0.0.1:58142+6/1/2020 5:51:49 PM
+Connect  Connected 127.0.0.1:58186 6/1/2020 6:10:48 PM
+Connect +Connected+127.0.0.1:58186+6/1/2020 6:10:48 PM
+fb.com  127.0.0.1:58186 6/1/2020 6:10:57 PM
+fb.com++127.0.0.1:58186+6/1/2020 6:10:57 PM
+Connect  Connected 127.0.0.1:58190 6/1/2020 6:12:27 PM
+Connect +Connected+127.0.0.1:58190+6/1/2020 6:12:27 PM
+fb.com Successful 127.0.0.1:58190 6/1/2020 6:12:36 PM
+fb.com+Successful+127.0.0.1:58190+6/1/2020 6:12:36 PM
+Connect  Connected 127.0.0.1:58210 6/1/2020 6:13:18 PM
+Connect +Connected+127.0.0.1:58210+6/1/2020 6:13:18 PM
+sdasd Unsuccessful 127.0.0.1:58210 6/1/2020 6:13:35 PM
+sdasd+Unsuccessful+127.0.0.1:58210+6/1/2020 6:13:35 PM
+daa.uit.edu.vn Successful 127.0.0.1:58210 6/1/2020 6:13:47 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58210+6/1/2020 6:13:47 PM
+fb.com Successful 127.0.0.1:58210 6/1/2020 6:14:02 PM
+fb.com+Successful+127.0.0.1:58210+6/1/2020 6:14:02 PM
+tiin.vn Successful 127.0.0.1:58210 6/1/2020 6:14:15 PM
+tiin.vn+Successful+127.0.0.1:58210+6/1/2020 6:14:15 PM
+Connect  Connected 127.0.0.1:58243 6/1/2020 6:15:17 PM
+Connect +Connected+127.0.0.1:58243+6/1/2020 6:15:17 PM
+fb.com Successful 127.0.0.1:58243 6/1/2020 6:15:24 PM
+fb.com+Successful+127.0.0.1:58243+6/1/2020 6:15:24 PM
+tiin.vn Successful 127.0.0.1:58243 6/1/2020 6:15:36 PM
+tiin.vn+Successful+127.0.0.1:58243+6/1/2020 6:15:36 PM
+Connect  Connected 127.0.0.1:58303 6/1/2020 6:17:16 PM
+Connect +Connected+127.0.0.1:58303+6/1/2020 6:17:16 PM
+Connect  Connected 127.0.0.1:58304 6/1/2020 6:17:51 PM
+Connect +Connected+127.0.0.1:58304+6/1/2020 6:17:51 PM
+Connect  Connected 127.0.0.1:58306 6/1/2020 6:18:14 PM
+Connect +Connected+127.0.0.1:58306+6/1/2020 6:18:14 PM
+Connect  Connected 127.0.0.1:58307 6/1/2020 6:18:47 PM
+Connect +Connected+127.0.0.1:58307+6/1/2020 6:18:47 PM
+fb.com Successful 127.0.0.1:58307 6/1/2020 6:18:55 PM
+fb.com+Successful+127.0.0.1:58307+6/1/2020 6:18:55 PM
+tiin.vn Successful 127.0.0.1:58307 6/1/2020 6:19:05 PM
+tiin.vn+Successful+127.0.0.1:58307+6/1/2020 6:19:05 PM
+Connect  Connected 127.0.0.1:58330 6/1/2020 6:22:04 PM
+Connect +Connected+127.0.0.1:58330+6/1/2020 6:22:04 PM
+fb.com Successful 127.0.0.1:58330 6/1/2020 6:22:13 PM
+fb.com+Successful+127.0.0.1:58330+6/1/2020 6:22:13 PM
+thai.vn Successful 127.0.0.1:58330 6/1/2020 6:22:34 PM
+thai.vn+Successful+127.0.0.1:58330+6/1/2020 6:22:34 PM
+Connect  Connected 127.0.0.1:58398 6/1/2020 6:29:15 PM
+Connect +Connected+127.0.0.1:58398+6/1/2020 6:29:15 PM
+Connect  Connected 127.0.0.1:58399 6/1/2020 6:29:45 PM
+Connect +Connected+127.0.0.1:58399+6/1/2020 6:29:45 PM
+Connect  Connected 127.0.0.1:58401 6/1/2020 6:30:28 PM
+Connect +Connected+127.0.0.1:58401+6/1/2020 6:30:28 PM
+fb.com Successful 127.0.0.1:58401 6/1/2020 6:30:36 PM
+fb.com+Successful+127.0.0.1:58401+6/1/2020 6:30:36 PM
+thai.vn Successful 127.0.0.1:58401 6/1/2020 6:30:50 PM
+thai.vn+Successful+127.0.0.1:58401+6/1/2020 6:30:50 PM
+Connect  Connected 127.0.0.1:58429 6/1/2020 6:31:54 PM
+Connect +Connected+127.0.0.1:58429+6/1/2020 6:31:54 PM
+fb.com Successful 127.0.0.1:58429 6/1/2020 6:32:01 PM
+fb.com+Successful+127.0.0.1:58429+6/1/2020 6:32:01 PM
+tiin.vn Successful 127.0.0.1:58429 6/1/2020 6:32:16 PM
+tiin.vn+Successful+127.0.0.1:58429+6/1/2020 6:32:16 PM
+daa.uit.edu.vn Successful 127.0.0.1:58429 6/1/2020 6:32:33 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58429+6/1/2020 6:32:33 PM
+thai.vn Successful 127.0.0.1:58429 6/1/2020 6:33:31 PM
+thai.vn+Successful+127.0.0.1:58429+6/1/2020 6:33:31 PM
+Connect  Connected 127.0.0.1:58523 6/1/2020 6:33:52 PM
+Connect +Connected+127.0.0.1:58523+6/1/2020 6:33:52 PM
+thai.vn Successful 127.0.0.1:58523 6/1/2020 6:33:58 PM
+thai.vn+Successful+127.0.0.1:58523+6/1/2020 6:33:58 PM
+thai.vn Successful 127.0.0.1:58523 6/1/2020 6:34:08 PM
+thai.vn+Successful+127.0.0.1:58523+6/1/2020 6:34:08 PM
+fb.com Successful 127.0.0.1:58523 6/1/2020 6:34:18 PM
+fb.com+Successful+127.0.0.1:58523+6/1/2020 6:34:18 PM
+google.com Successful 127.0.0.1:58523 6/1/2020 6:34:29 PM
+google.com+Successful+127.0.0.1:58523+6/1/2020 6:34:29 PM
+fb.com Successful 127.0.0.1:58523 6/1/2020 6:34:39 PM
+fb.com+Successful+127.0.0.1:58523+6/1/2020 6:34:39 PM
+fb.com Successful 127.0.0.1:58523 6/1/2020 6:34:50 PM
+fb.com+Successful+127.0.0.1:58523+6/1/2020 6:34:50 PM
+Connect  Connected 127.0.0.1:58723 6/1/2020 6:35:47 PM
+Connect +Connected+127.0.0.1:58723+6/1/2020 6:35:47 PM
+dsasd Unsuccessful 127.0.0.1:58723 6/1/2020 6:36:02 PM
+dsasd+Unsuccessful+127.0.0.1:58723+6/1/2020 6:36:02 PM
+thai.vn Successful 127.0.0.1:58723 6/1/2020 6:36:12 PM
+thai.vn+Successful+127.0.0.1:58723+6/1/2020 6:36:12 PM
+daa,uit.edu.vn Unsuccessful 127.0.0.1:58723 6/1/2020 6:36:30 PM
+daa,uit.edu.vn+Unsuccessful+127.0.0.1:58723+6/1/2020 6:36:30 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:58723 6/1/2020 6:36:42 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:58723+6/1/2020 6:36:42 PM
+Connect  Connected 127.0.0.1:58762 6/1/2020 6:38:07 PM
+Connect +Connected+127.0.0.1:58762+6/1/2020 6:38:07 PM
+thai.vn Successful 127.0.0.1:58762 6/1/2020 6:38:15 PM
+thai.vn+Successful+127.0.0.1:58762+6/1/2020 6:38:15 PM
+google.com Successful 127.0.0.1:58762 6/1/2020 6:38:27 PM
+google.com+Successful+127.0.0.1:58762+6/1/2020 6:38:27 PM
+Connect  Connected 127.0.0.1:58783 6/1/2020 6:38:48 PM
+Connect +Connected+127.0.0.1:58783+6/1/2020 6:38:48 PM
+fb.com Successful 127.0.0.1:58783 6/1/2020 6:38:54 PM
+fb.com+Successful+127.0.0.1:58783+6/1/2020 6:38:54 PM
+adasd Unsuccessful 127.0.0.1:58783 6/1/2020 6:39:09 PM
+adasd+Unsuccessful+127.0.0.1:58783+6/1/2020 6:39:09 PM
+fb.com Successful 127.0.0.1:58783 6/1/2020 6:39:24 PM
+fb.com+Successful+127.0.0.1:58783+6/1/2020 6:39:24 PM
+daa.uit.edu.vn Successful 127.0.0.1:58783 6/1/2020 6:39:48 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58783+6/1/2020 6:39:48 PM
+Connect  Connected 127.0.0.1:56641 6/1/2020 7:45:02 PM
+Connect +Connected+127.0.0.1:56641+6/1/2020 7:45:02 PM
+fb.com Successful 127.0.0.1:56641 6/1/2020 7:45:10 PM
+fb.com+Successful+127.0.0.1:56641+6/1/2020 7:45:10 PM
+fb.com Successful 127.0.0.1:56641 6/1/2020 7:45:25 PM
+fb.com+Successful+127.0.0.1:56641+6/1/2020 7:45:25 PM
+fb.com Successful 127.0.0.1:56641 6/1/2020 7:45:38 PM
+fb.com+Successful+127.0.0.1:56641+6/1/2020 7:45:38 PM
+Connect  Connected 127.0.0.1:56690 6/1/2020 7:45:59 PM
+Connect +Connected+127.0.0.1:56690+6/1/2020 7:45:59 PM
+fb.com Successful 127.0.0.1:56690 6/1/2020 7:46:11 PM
+fb.com+Successful+127.0.0.1:56690+6/1/2020 7:46:11 PM
+fb.com Successful 127.0.0.1:56690 6/1/2020 7:46:21 PM
+fb.com+Successful+127.0.0.1:56690+6/1/2020 7:46:21 PM
+fb.com Successful 127.0.0.1:56690 6/1/2020 7:46:29 PM
+fb.com+Successful+127.0.0.1:56690+6/1/2020 7:46:29 PM
+Connect  Connected 127.0.0.1:56718 6/1/2020 7:46:43 PM
+Connect +Connected+127.0.0.1:56718+6/1/2020 7:46:43 PM
+fb.com Successful 127.0.0.1:56718 6/1/2020 7:46:49 PM
+fb.com+Successful+127.0.0.1:56718+6/1/2020 7:46:49 PM
+fb.com Successful 127.0.0.1:56718 6/1/2020 7:47:06 PM
+fb.com+Successful+127.0.0.1:56718+6/1/2020 7:47:06 PM
+Connect  Connected 127.0.0.1:56769 6/1/2020 7:48:01 PM
+Connect +Connected+127.0.0.1:56769+6/1/2020 7:48:01 PM
+Connect  Connected 127.0.0.1:56770 6/1/2020 7:48:36 PM
+Connect +Connected+127.0.0.1:56770+6/1/2020 7:48:36 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:48:40 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:48:40 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:48:48 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:48:48 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:48:57 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:48:57 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:49:10 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:49:10 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:49:16 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:49:16 PM
+fb.com Successful 127.0.0.1:56770 6/1/2020 7:49:23 PM
+fb.com+Successful+127.0.0.1:56770+6/1/2020 7:49:23 PM
+Connect  Connected 127.0.0.1:56818 6/1/2020 7:50:29 PM
+Connect +Connected+127.0.0.1:56818+6/1/2020 7:50:29 PM
+fb.com Successful 127.0.0.1:56818 6/1/2020 7:50:34 PM
+fb.com+Successful+127.0.0.1:56818+6/1/2020 7:50:34 PM
+fb.com Successful 127.0.0.1:56818 6/1/2020 7:50:41 PM
+fb.com+Successful+127.0.0.1:56818+6/1/2020 7:50:41 PM
+fb.com Successful 127.0.0.1:56818 6/1/2020 7:50:52 PM
+fb.com+Successful+127.0.0.1:56818+6/1/2020 7:50:52 PM
+Connect  Connected 127.0.0.1:56840 6/1/2020 7:51:04 PM
+Connect +Connected+127.0.0.1:56840+6/1/2020 7:51:04 PM
+fb.com Successful 127.0.0.1:56840 6/1/2020 7:51:09 PM
+fb.com+Successful+127.0.0.1:56840+6/1/2020 7:51:09 PM
+Connect  Connected 127.0.0.1:56855 6/1/2020 7:52:49 PM
+Connect +Connected+127.0.0.1:56855+6/1/2020 7:52:49 PM
+fb.com Successful 127.0.0.1:56855 6/1/2020 7:53:00 PM
+fb.com+Successful+127.0.0.1:56855+6/1/2020 7:53:00 PM
+fb.com Successful 127.0.0.1:56855 6/1/2020 7:53:09 PM
+fb.com+Successful+127.0.0.1:56855+6/1/2020 7:53:09 PM
+fb.com Successful 127.0.0.1:56855 6/1/2020 7:53:18 PM
+fb.com+Successful+127.0.0.1:56855+6/1/2020 7:53:18 PM
+google.com Successful 127.0.0.1:56855 6/1/2020 7:53:44 PM
+google.com+Successful+127.0.0.1:56855+6/1/2020 7:53:44 PM
+Connect  Connected 127.0.0.1:56901 6/1/2020 7:59:57 PM
+Connect +Connected+127.0.0.1:56901+6/1/2020 7:59:57 PM
+daa.uit.edu.vn Successful 127.0.0.1:56901 6/1/2020 8:00:11 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56901+6/1/2020 8:00:11 PM
+daa.uit.edu.vn Successful 127.0.0.1:56901 6/1/2020 8:00:21 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56901+6/1/2020 8:00:21 PM
+Connect  Connected 127.0.0.1:56926 6/1/2020 8:03:59 PM
+Connect +Connected+127.0.0.1:56926+6/1/2020 8:03:59 PM
+daa.uit.edu.vn Successful 127.0.0.1:56926 6/1/2020 8:04:17 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56926+6/1/2020 8:04:17 PM
+daa.uit.edu.vn Successful 127.0.0.1:56926 6/1/2020 8:04:22 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56926+6/1/2020 8:04:22 PM
+Connect  Connected 127.0.0.1:56939 6/1/2020 8:04:37 PM
+Connect +Connected+127.0.0.1:56939+6/1/2020 8:04:37 PM
+daa.uit.edu.vn Successful 127.0.0.1:56939 6/1/2020 8:04:56 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56939+6/1/2020 8:04:56 PM
+daa.uit.edu.vn Successful 127.0.0.1:56939 6/1/2020 8:05:01 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56939+6/1/2020 8:05:01 PM
+daa.uit.edu.vn Successful 127.0.0.1:56939 6/1/2020 8:05:54 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56939+6/1/2020 8:05:54 PM
+daa.uit.edu.vn Successful 127.0.0.1:56939 6/1/2020 8:06:06 PM
+daa.uit.edu.vn+Successful+127.0.0.1:56939+6/1/2020 8:06:06 PM
+Connect  Connected 127.0.0.1:56977 6/1/2020 8:11:44 PM
+Connect +Connected+127.0.0.1:56977+6/1/2020 8:11:44 PM
+daa.uit.edu.vn  127.0.0.1:56977 6/1/2020 8:11:57 PM
+daa.uit.edu.vn++127.0.0.1:56977+6/1/2020 8:11:57 PM
+daa.uit.edu.vn  127.0.0.1:56977 6/1/2020 8:12:03 PM
+daa.uit.edu.vn++127.0.0.1:56977+6/1/2020 8:12:03 PM
+daa.uit.edu.vn  127.0.0.1:56977 6/1/2020 8:12:12 PM
+daa.uit.edu.vn++127.0.0.1:56977+6/1/2020 8:12:12 PM
+daa.uit.edu.vn  127.0.0.1:56977 6/1/2020 8:12:22 PM
+daa.uit.edu.vn++127.0.0.1:56977+6/1/2020 8:12:22 PM
+daa.uit.edu.vn  127.0.0.1:56977 6/1/2020 8:12:31 PM
+daa.uit.edu.vn++127.0.0.1:56977+6/1/2020 8:12:31 PM
+Connect  Connected 127.0.0.1:57056 6/1/2020 8:13:00 PM
+Connect +Connected+127.0.0.1:57056+6/1/2020 8:13:00 PM
+daa.uit.edu.vn  127.0.0.1:57056 6/1/2020 8:13:06 PM
+daa.uit.edu.vn++127.0.0.1:57056+6/1/2020 8:13:06 PM
+Connect  Connected 127.0.0.1:57079 6/1/2020 8:15:25 PM
+Connect +Connected+127.0.0.1:57079+6/1/2020 8:15:25 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:15:31 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:15:31 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:15:36 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:15:36 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:15:42 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:15:42 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:15:51 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:15:51 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:15:59 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:15:59 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:16:08 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:16:08 PM
+daa.uit.edu.vn  127.0.0.1:57079 6/1/2020 8:16:18 PM
+daa.uit.edu.vn++127.0.0.1:57079+6/1/2020 8:16:18 PM
+Connect  Connected 127.0.0.1:57150 6/1/2020 8:18:07 PM
+Connect +Connected+127.0.0.1:57150+6/1/2020 8:18:07 PM
+daa.uit.edu.vn  127.0.0.1:57150 6/1/2020 8:18:11 PM
+daa.uit.edu.vn++127.0.0.1:57150+6/1/2020 8:18:11 PM
+daa.uit.edu.vn  127.0.0.1:57150 6/1/2020 8:18:14 PM
+daa.uit.edu.vn++127.0.0.1:57150+6/1/2020 8:18:14 PM
+daa.uit.edu.vn  127.0.0.1:57150 6/1/2020 8:18:19 PM
+daa.uit.edu.vn++127.0.0.1:57150+6/1/2020 8:18:19 PM
+daa.uit.edu.vn  127.0.0.1:57150 6/1/2020 8:18:25 PM
+daa.uit.edu.vn++127.0.0.1:57150+6/1/2020 8:18:25 PM
+daa.uit.edu.vn  127.0.0.1:57150 6/1/2020 8:18:35 PM
+daa.uit.edu.vn++127.0.0.1:57150+6/1/2020 8:18:35 PM
+Connect  Connected 127.0.0.1:57170 6/1/2020 8:18:57 PM
+Connect +Connected+127.0.0.1:57170+6/1/2020 8:18:57 PM
+daa.uit.edu.vn  127.0.0.1:57170 6/1/2020 8:19:01 PM
+daa.uit.edu.vn++127.0.0.1:57170+6/1/2020 8:19:01 PM
+daa.uit.edu.vn  127.0.0.1:57170 6/1/2020 8:19:06 PM
+daa.uit.edu.vn++127.0.0.1:57170+6/1/2020 8:19:06 PM
+daa.uit.edu.vn  127.0.0.1:57170 6/1/2020 8:19:11 PM
+daa.uit.edu.vn++127.0.0.1:57170+6/1/2020 8:19:11 PM
+daa.uit.edu.vn  127.0.0.1:57170 6/1/2020 8:19:19 PM
+daa.uit.edu.vn++127.0.0.1:57170+6/1/2020 8:19:19 PM
+daa.uit.edu.vn  127.0.0.1:57170 6/1/2020 8:19:30 PM
+daa.uit.edu.vn++127.0.0.1:57170+6/1/2020 8:19:30 PM
+Connect  Connected 127.0.0.1:57230 6/1/2020 8:20:00 PM
+Connect +Connected+127.0.0.1:57230+6/1/2020 8:20:00 PM
+1 Unsuccessful 127.0.0.1:57230 6/1/2020 8:20:14 PM
+1+Unsuccessful+127.0.0.1:57230+6/1/2020 8:20:14 PM
+dfsasdsad Unsuccessful 127.0.0.1:57230 6/1/2020 8:20:31 PM
+dfsasdsad+Unsuccessful+127.0.0.1:57230+6/1/2020 8:20:31 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:20:35 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:20:35 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:20:44 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:20:44 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:20:54 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:20:54 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:21:05 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:21:05 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:21:14 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:21:14 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:21:27 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:21:27 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:21:38 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:21:38 PM
+daa.uit.edu.vn  127.0.0.1:57230 6/1/2020 8:21:57 PM
+daa.uit.edu.vn++127.0.0.1:57230+6/1/2020 8:21:57 PM
+Connect  Connected 127.0.0.1:57376 6/1/2020 8:27:55 PM
+Connect +Connected+127.0.0.1:57376+6/1/2020 8:27:55 PM
+fb.com  127.0.0.1:57376 6/1/2020 8:28:05 PM
+fb.com++127.0.0.1:57376+6/1/2020 8:28:05 PM
+Connect  Connected 127.0.0.1:57393 6/1/2020 8:29:18 PM
+Connect +Connected+127.0.0.1:57393+6/1/2020 8:29:18 PM
+Connect  Connected 127.0.0.1:57398 6/1/2020 8:30:36 PM
+Connect +Connected+127.0.0.1:57398+6/1/2020 8:30:36 PM
+fb.com  127.0.0.1:57398 6/1/2020 8:30:47 PM
+fb.com++127.0.0.1:57398+6/1/2020 8:30:47 PM
+fb.com  127.0.0.1:57398 6/1/2020 8:31:26 PM
+fb.com++127.0.0.1:57398+6/1/2020 8:31:26 PM
+fb.com  127.0.0.1:57398 6/1/2020 8:31:39 PM
+fb.com++127.0.0.1:57398+6/1/2020 8:31:39 PM
+Connect  Connected 127.0.0.1:57460 6/1/2020 8:43:11 PM
+Connect +Connected+127.0.0.1:57460+6/1/2020 8:43:11 PM
+fb.com  127.0.0.1:57460 6/1/2020 8:43:17 PM
+fb.com++127.0.0.1:57460+6/1/2020 8:43:17 PM
+Connect  Connected 127.0.0.1:57478 6/1/2020 8:43:55 PM
+Connect +Connected+127.0.0.1:57478+6/1/2020 8:43:55 PM
+fb.com  127.0.0.1:57478 6/1/2020 8:44:04 PM
+fb.com++127.0.0.1:57478+6/1/2020 8:44:04 PM
+Connect  Connected 127.0.0.1:57500 6/1/2020 8:53:25 PM
+Connect +Connected+127.0.0.1:57500+6/1/2020 8:53:25 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:53:31 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:53:31 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:53:37 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:53:37 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:53:45 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:53:45 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:53:51 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:53:51 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:53:58 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:53:58 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:07 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:07 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:12 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:12 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:18 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:18 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:24 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:24 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:33 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:33 PM
+fb.com  127.0.0.1:57500 6/1/2020 8:54:38 PM
+fb.com++127.0.0.1:57500+6/1/2020 8:54:38 PM
+Connect  Connected 127.0.0.1:57638 6/1/2020 8:55:46 PM
+Connect +Connected+127.0.0.1:57638+6/1/2020 8:55:46 PM
+eqqweqwq Unsuccessful 127.0.0.1:57638 6/1/2020 8:56:06 PM
+eqqweqwq+Unsuccessful+127.0.0.1:57638+6/1/2020 8:56:06 PM
+eqqweqwq Unsuccessful 127.0.0.1:57638 6/1/2020 8:56:11 PM
+eqqweqwq+Unsuccessful+127.0.0.1:57638+6/1/2020 8:56:11 PM
+thai.vn  127.0.0.1:57638 6/1/2020 8:56:17 PM
+thai.vn++127.0.0.1:57638+6/1/2020 8:56:17 PM
+Connect  Connected 127.0.0.1:57670 6/1/2020 9:01:19 PM
+Connect +Connected+127.0.0.1:57670+6/1/2020 9:01:19 PM
+sdasdasd Unsuccessful 127.0.0.1:57670 6/1/2020 9:01:35 PM
+sdasdasd+Unsuccessful+127.0.0.1:57670+6/1/2020 9:01:35 PM
+daa.uit.edu.vn  127.0.0.1:57670 6/1/2020 9:01:51 PM
+daa.uit.edu.vn++127.0.0.1:57670+6/1/2020 9:01:51 PM
+Connect  Connected 127.0.0.1:57717 6/1/2020 9:03:31 PM
+Connect +Connected+127.0.0.1:57717+6/1/2020 9:03:31 PM
+youtube.com  127.0.0.1:57717 6/1/2020 9:03:39 PM
+youtube.com++127.0.0.1:57717+6/1/2020 9:03:39 PM
+Connect  Connected 127.0.0.1:57762 6/1/2020 9:19:25 PM
+Connect +Connected+127.0.0.1:57762+6/1/2020 9:19:25 PM
+Connect  Connected 127.0.0.1:57814 6/1/2020 9:27:54 PM
+Connect +Connected+127.0.0.1:57814+6/1/2020 9:27:54 PM
+Connect  Connected 127.0.0.1:57827 6/1/2020 9:28:46 PM
+Connect +Connected+127.0.0.1:57827+6/1/2020 9:28:46 PM
+fb.com  127.0.0.1:57827 6/1/2020 9:28:57 PM
+fb.com++127.0.0.1:57827+6/1/2020 9:28:57 PM
+Connect  Connected 127.0.0.1:57899 6/1/2020 9:37:22 PM
+Connect +Connected+127.0.0.1:57899+6/1/2020 9:37:22 PM
+fb.com Successful 127.0.0.1:57899 6/1/2020 9:37:41 PM
+fb.com+Successful+127.0.0.1:57899+6/1/2020 9:37:41 PM
+Connect  Connected 127.0.0.1:57917 6/1/2020 9:39:52 PM
+Connect +Connected+127.0.0.1:57917+6/1/2020 9:39:52 PM
+fb.com Successful 127.0.0.1:57917 6/1/2020 9:40:15 PM
+fb.com+Successful+127.0.0.1:57917+6/1/2020 9:40:15 PM
+fb.com  127.0.0.1:57917 6/1/2020 9:41:01 PM
+fb.com++127.0.0.1:57917+6/1/2020 9:41:01 PM
+fb.com  127.0.0.1:57917 6/1/2020 9:41:09 PM
+fb.com++127.0.0.1:57917+6/1/2020 9:41:09 PM
+Connect  Connected 127.0.0.1:57972 6/1/2020 9:42:40 PM
+Connect +Connected+127.0.0.1:57972+6/1/2020 9:42:40 PM
+dsasa Unsuccessful 127.0.0.1:57972 6/1/2020 9:42:55 PM
+dsasa+Unsuccessful+127.0.0.1:57972+6/1/2020 9:42:55 PM
+tiin.vn  127.0.0.1:57972 6/1/2020 9:43:09 PM
+tiin.vn++127.0.0.1:57972+6/1/2020 9:43:09 PM
+Connect  Connected 127.0.0.1:57987 6/1/2020 9:44:03 PM
+Connect +Connected+127.0.0.1:57987+6/1/2020 9:44:03 PM
+fb.com Successful 127.0.0.1:57987 6/1/2020 9:44:16 PM
+fb.com+Successful+127.0.0.1:57987+6/1/2020 9:44:16 PM
+Connect  Connected 127.0.0.1:58059 6/1/2020 9:48:50 PM
+Connect +Connected+127.0.0.1:58059+6/1/2020 9:48:50 PM
+Connect  Connected 127.0.0.1:58066 6/1/2020 9:49:38 PM
+Connect +Connected+127.0.0.1:58066+6/1/2020 9:49:38 PM
+fb.com Successful 127.0.0.1:58066 6/1/2020 9:50:05 PM
+fb.com+Successful+127.0.0.1:58066+6/1/2020 9:50:05 PM
+Connect  Connected 127.0.0.1:58079 6/1/2020 9:50:47 PM
+Connect +Connected+127.0.0.1:58079+6/1/2020 9:50:47 PM
+fb.com  127.0.0.1:58079 6/1/2020 9:51:04 PM
+fb.com++127.0.0.1:58079+6/1/2020 9:51:04 PM
+fb.com  127.0.0.1:58079 6/1/2020 9:51:08 PM
+fb.com++127.0.0.1:58079+6/1/2020 9:51:08 PM
+fb.com  127.0.0.1:58079 6/1/2020 9:51:16 PM
+fb.com++127.0.0.1:58079+6/1/2020 9:51:16 PM
+Connect  Connected 127.0.0.1:58125 6/1/2020 9:52:01 PM
+Connect +Connected+127.0.0.1:58125+6/1/2020 9:52:01 PM
+dssdsd Unsuccessful 127.0.0.1:58125 6/1/2020 9:52:26 PM
+dssdsd+Unsuccessful+127.0.0.1:58125+6/1/2020 9:52:26 PM
+daa.uit.edu.vn  127.0.0.1:58125 6/1/2020 9:52:40 PM
+daa.uit.edu.vn++127.0.0.1:58125+6/1/2020 9:52:40 PM
+daa.uit.edu.vn  127.0.0.1:58125 6/1/2020 9:52:48 PM
+daa.uit.edu.vn++127.0.0.1:58125+6/1/2020 9:52:48 PM
+daa.uit.edu.vn  127.0.0.1:58125 6/1/2020 9:52:57 PM
+daa.uit.edu.vn++127.0.0.1:58125+6/1/2020 9:52:57 PM
+daa.uit.edu.vn Successful 127.0.0.1:58125 6/1/2020 9:53:17 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58125+6/1/2020 9:53:17 PM
+daa.uit.edu.vn  127.0.0.1:58125 6/1/2020 9:53:25 PM
+daa.uit.edu.vn++127.0.0.1:58125+6/1/2020 9:53:25 PM
+daa.uit.edu.vn  127.0.0.1:58125 6/1/2020 9:53:35 PM
+daa.uit.edu.vn++127.0.0.1:58125+6/1/2020 9:53:35 PM
+Connect  Connected 127.0.0.1:58255 6/1/2020 9:57:52 PM
+Connect +Connected+127.0.0.1:58255+6/1/2020 9:57:52 PM
+fb.com  127.0.0.1:58255 6/1/2020 9:57:59 PM
+fb.com++127.0.0.1:58255+6/1/2020 9:57:59 PM
+fb.com  127.0.0.1:58255 6/1/2020 9:58:06 PM
+fb.com++127.0.0.1:58255+6/1/2020 9:58:06 PM
+fb.com  127.0.0.1:58255 6/1/2020 9:58:12 PM
+fb.com++127.0.0.1:58255+6/1/2020 9:58:12 PM
+fb.com Successful 127.0.0.1:58255 6/1/2020 9:58:30 PM
+fb.com+Successful+127.0.0.1:58255+6/1/2020 9:58:30 PM
+fb.com  127.0.0.1:58255 6/1/2020 9:58:39 PM
+fb.com++127.0.0.1:58255+6/1/2020 9:58:39 PM
+fb.com  127.0.0.1:58255 6/1/2020 9:58:46 PM
+fb.com++127.0.0.1:58255+6/1/2020 9:58:46 PM
+sdasdsa Unsuccessful 127.0.0.1:58255 6/1/2020 9:59:08 PM
+sdasdsa+Unsuccessful+127.0.0.1:58255+6/1/2020 9:59:08 PM
+https://www.youtube.com/watch?v=qAHxvhGk_mQ  127.0.0.1:58255 6/1/2020 9:59:33 PM
+https://www.youtube.com/watch?v=qAHxvhGk_mQ++127.0.0.1:58255+6/1/2020 9:59:33 PM
+Connect  Connected 127.0.0.1:58388 6/1/2020 9:59:54 PM
+Connect +Connected+127.0.0.1:58388+6/1/2020 9:59:54 PM
+dangcongsan.vn  127.0.0.1:58388 6/1/2020 10:00:06 PM
+dangcongsan.vn++127.0.0.1:58388+6/1/2020 10:00:06 PM
+Connect  Connected 127.0.0.1:58424 6/1/2020 10:00:54 PM
+Connect +Connected+127.0.0.1:58424+6/1/2020 10:00:54 PM
+Connect  Connected 127.0.0.1:58441 6/1/2020 10:04:04 PM
+Connect +Connected+127.0.0.1:58441+6/1/2020 10:04:04 PM
+thkjldadd Unsuccessful 127.0.0.1:58441 6/1/2020 10:04:21 PM
+thkjldadd+Unsuccessful+127.0.0.1:58441+6/1/2020 10:04:21 PM
+fb.com  127.0.0.1:58441 6/1/2020 10:04:29 PM
+fb.com++127.0.0.1:58441+6/1/2020 10:04:29 PM
+fb.com  127.0.0.1:58441 6/1/2020 10:04:37 PM
+fb.com++127.0.0.1:58441+6/1/2020 10:04:37 PM
+fb.com  127.0.0.1:58441 6/1/2020 10:04:44 PM
+fb.com++127.0.0.1:58441+6/1/2020 10:04:44 PM
+fb.com Successful 127.0.0.1:58441 6/1/2020 10:04:57 PM
+fb.com+Successful+127.0.0.1:58441+6/1/2020 10:04:57 PM
+fb.com  127.0.0.1:58441 6/1/2020 10:05:03 PM
+fb.com++127.0.0.1:58441+6/1/2020 10:05:03 PM
+fb.com  127.0.0.1:58441 6/1/2020 10:05:11 PM
+fb.com++127.0.0.1:58441+6/1/2020 10:05:11 PM
+Connect  Connected 127.0.0.1:58686 6/1/2020 10:24:20 PM
+Connect +Connected+127.0.0.1:58686+6/1/2020 10:24:20 PM
+thkhdskjsds Unsuccessful 127.0.0.1:58686 6/1/2020 10:24:38 PM
+thkhdskjsds+Unsuccessful+127.0.0.1:58686+6/1/2020 10:24:38 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:24:53 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:24:53 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:25:10 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:25:10 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:25:20 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:25:20 PM
+daa.uit.edu.vn Successful 127.0.0.1:58686 6/1/2020 10:25:36 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58686+6/1/2020 10:25:36 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:25:44 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:25:44 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:25:53 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:25:53 PM
+daa.uit.edu.vn  127.0.0.1:58686 6/1/2020 10:26:14 PM
+daa.uit.edu.vn++127.0.0.1:58686+6/1/2020 10:26:14 PM
+Connect  Connected 127.0.0.1:58827 6/1/2020 10:31:15 PM
+Connect +Connected+127.0.0.1:58827+6/1/2020 10:31:15 PM
+sdhhdkajhd Unsuccessful 127.0.0.1:58827 6/1/2020 10:31:32 PM
+sdhhdkajhd+Unsuccessful+127.0.0.1:58827+6/1/2020 10:31:32 PM
+daa.uit.edu.vn  127.0.0.1:58827 6/1/2020 10:31:47 PM
+daa.uit.edu.vn++127.0.0.1:58827+6/1/2020 10:31:47 PM
+daa.uit.edu.vn  127.0.0.1:58827 6/1/2020 10:31:55 PM
+daa.uit.edu.vn++127.0.0.1:58827+6/1/2020 10:31:55 PM
+daa.uit.edu.vn  127.0.0.1:58827 6/1/2020 10:32:03 PM
+daa.uit.edu.vn++127.0.0.1:58827+6/1/2020 10:32:03 PM
+daa.uit.edu.vn  127.0.0.1:58827 6/1/2020 10:32:16 PM
+daa.uit.edu.vn++127.0.0.1:58827+6/1/2020 10:32:16 PM
+daa.uit.edu.vn Successful 127.0.0.1:58827 6/1/2020 10:32:39 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58827+6/1/2020 10:32:39 PM
+daa.uit.edu.vn  127.0.0.1:58827 6/1/2020 10:32:53 PM
+daa.uit.edu.vn++127.0.0.1:58827+6/1/2020 10:32:53 PM
+daa.uit.edu.vn Successful 127.0.0.1:58827 6/1/2020 10:33:36 PM
+daa.uit.edu.vn+Successful+127.0.0.1:58827+6/1/2020 10:33:36 PM
+tiin.vn Successful 127.0.0.1:58827 6/1/2020 10:33:52 PM
+tiin.vn+Successful+127.0.0.1:58827+6/1/2020 10:33:52 PM
+tiin.vn  127.0.0.1:58827 6/1/2020 10:33:59 PM
+tiin.vn++127.0.0.1:58827+6/1/2020 10:33:59 PM
+Connect  Connected 127.0.0.1:59057 6/1/2020 10:39:04 PM
+Connect +Connected+127.0.0.1:59057+6/1/2020 10:39:04 PM
+fb.com Successful 127.0.0.1:59057 6/1/2020 10:39:12 PM
+fb.com+Successful+127.0.0.1:59057+6/1/2020 10:39:12 PM
+Connect  Connected 127.0.0.1:59122 6/1/2020 10:40:15 PM
+Connect +Connected+127.0.0.1:59122+6/1/2020 10:40:15 PM
+fb.com  127.0.0.1:59122 6/1/2020 10:40:22 PM
+fb.com++127.0.0.1:59122+6/1/2020 10:40:22 PM
+Connect  Connected 127.0.0.1:59172 6/1/2020 10:40:52 PM
+Connect +Connected+127.0.0.1:59172+6/1/2020 10:40:52 PM
+google.com  127.0.0.1:59172 6/1/2020 10:40:59 PM
+google.com++127.0.0.1:59172+6/1/2020 10:40:59 PM
+Connect  Connected 127.0.0.1:59220 6/1/2020 10:43:55 PM
+Connect +Connected+127.0.0.1:59220+6/1/2020 10:43:55 PM
+sdasdasd Unsuccessful 127.0.0.1:59220 6/1/2020 10:44:11 PM
+sdasdasd+Unsuccessful+127.0.0.1:59220+6/1/2020 10:44:11 PM
+fb.com  127.0.0.1:59220 6/1/2020 10:44:19 PM
+fb.com++127.0.0.1:59220+6/1/2020 10:44:19 PM
+fb.com  127.0.0.1:59220 6/1/2020 10:44:29 PM
+fb.com++127.0.0.1:59220+6/1/2020 10:44:29 PM
+Connect  Connected 127.0.0.1:59258 6/1/2020 10:45:55 PM
+Connect +Connected+127.0.0.1:59258+6/1/2020 10:45:55 PM
+fb.com  127.0.0.1:59258 6/1/2020 10:46:04 PM
+fb.com++127.0.0.1:59258+6/1/2020 10:46:04 PM
+Connect  Connected 127.0.0.1:59286 6/1/2020 10:46:38 PM
+Connect +Connected+127.0.0.1:59286+6/1/2020 10:46:38 PM
+Connect  Connected 127.0.0.1:59286 6/1/2020 10:46:44 PM
+Connect +Connected+127.0.0.1:59286+6/1/2020 10:46:44 PM
+fb.com  127.0.0.1:59286 6/1/2020 10:46:44 PM
+fb.com++127.0.0.1:59286+6/1/2020 10:46:44 PM
+gffgdgd Unsuccessful 127.0.0.1:59286 6/1/2020 10:47:34 PM
+gffgdgd+Unsuccessful+127.0.0.1:59286+6/1/2020 10:47:34 PM
+Connect  Connected 127.0.0.1:59307 6/1/2020 10:53:24 PM
+Connect +Connected+127.0.0.1:59307+6/1/2020 10:53:24 PM
+fb.com Successful 127.0.0.1:59307 6/1/2020 10:53:29 PM
+fb.com+Successful+127.0.0.1:59307+6/1/2020 10:53:29 PM
+dssada Unsuccessful 127.0.0.1:59307 6/1/2020 10:53:46 PM
+dssada+Unsuccessful+127.0.0.1:59307+6/1/2020 10:53:46 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:54:07 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:54:07 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:54:13 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:54:13 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:54:24 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:54:24 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:59307 6/1/2020 10:54:32 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:59307+6/1/2020 10:54:32 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:59307 6/1/2020 10:54:38 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:59307+6/1/2020 10:54:38 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:54:42 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:54:42 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:54:56 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:54:56 PM
+daa.uit.edu.vn Successful 127.0.0.1:59307 6/1/2020 10:55:03 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59307+6/1/2020 10:55:03 PM
+Connect  Connected 127.0.0.1:59358 6/1/2020 10:56:47 PM
+Connect +Connected+127.0.0.1:59358+6/1/2020 10:56:47 PM
+fdfsdsdfsdfs Unsuccessful 127.0.0.1:59358 6/1/2020 10:57:11 PM
+fdfsdsdfsdfs+Unsuccessful+127.0.0.1:59358+6/1/2020 10:57:11 PM
+dshkfskh Unsuccessful 127.0.0.1:59358 6/1/2020 10:57:19 PM
+dshkfskh+Unsuccessful+127.0.0.1:59358+6/1/2020 10:57:19 PM
+fb.com Successful 127.0.0.1:59358 6/1/2020 10:57:26 PM
+fb.com+Successful+127.0.0.1:59358+6/1/2020 10:57:26 PM
+Connect  Connected 127.0.0.1:59398 6/1/2020 10:59:26 PM
+Connect +Connected+127.0.0.1:59398+6/1/2020 10:59:26 PM
+fdsfsfsffdfs Unsuccessful 127.0.0.1:59398 6/1/2020 10:59:50 PM
+fdsfsfsffdfs+Unsuccessful+127.0.0.1:59398+6/1/2020 10:59:50 PM
+Connect  Connected 127.0.0.1:59446 6/1/2020 11:01:29 PM
+Connect +Connected+127.0.0.1:59446+6/1/2020 11:01:29 PM
+dfsdfsdsdfdf Unsuccessful 127.0.0.1:59446 6/1/2020 11:01:45 PM
+dfsdfsdsdfdf+Unsuccessful+127.0.0.1:59446+6/1/2020 11:01:45 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:01:58 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:01:58 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:02:08 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:02:08 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:02:18 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:02:18 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:02:34 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:02:34 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:02:40 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:02:40 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:02:51 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:02:51 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:03:23 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:03:23 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:03:58 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:03:58 PM
+daa.uit.edu.vn Successful 127.0.0.1:59446 6/1/2020 11:04:09 PM
+daa.uit.edu.vn+Successful+127.0.0.1:59446+6/1/2020 11:04:09 PM
+daa.uit.edu.vn Unsuccessful 127.0.0.1:59446 6/1/2020 11:04:22 PM
+daa.uit.edu.vn+Unsuccessful+127.0.0.1:59446+6/1/2020 11:04:22 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:04:31 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:04:31 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:04:37 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:04:37 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:04:43 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:04:43 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:04:53 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:04:53 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:05:01 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:05:01 PM
+tiin.vn Successful 127.0.0.1:59446 6/1/2020 11:05:06 PM
+tiin.vn+Successful+127.0.0.1:59446+6/1/2020 11:05:06 PM
+https://www.youtube.com/watch?v=W__8KKR77aE&t=275s Successful 127.0.0.1:59446 6/1/2020 11:05:32 PM
+https://www.youtube.com/watch?v=W__8KKR77aE&t=275s+Successful+127.0.0.1:59446+6/1/2020 11:05:32 PM
+http://dangcongsan.vn Successful 127.0.0.1:59446 6/1/2020 11:06:07 PM
+http://dangcongsan.vn+Successful+127.0.0.1:59446+6/1/2020 11:06:07 PM
+http://dangcongsan.vn Successful 127.0.0.1:59446 6/1/2020 11:06:16 PM
+http://dangcongsan.vn+Successful+127.0.0.1:59446+6/1/2020 11:06:16 PM
+asfgghghf Unsuccessful 127.0.0.1:59446 6/1/2020 11:06:46 PM
+asfgghghf+Unsuccessful+127.0.0.1:59446+6/1/2020 11:06:46 PM
